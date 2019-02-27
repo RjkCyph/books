@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4e30fe8b-8da8-49ad-b896-b9376813f145</dc:identifier>
+        <dc:title>Creative Scala</dc:title>
+        <dc:creator opf:file-as="Gurnell, Dave &amp; Welsh, Noel" opf:role="aut">Dave Gurnell</dc:creator>
+        <dc:creator opf:file-as="Gurnell, Dave &amp; Welsh, Noel" opf:role="aut">Noel Welsh</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Dave Gurnell&quot;: &quot;&quot;, &quot;Noel Welsh&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-02-27T11:19:04+00:00" name="calibre:timestamp"/>
+        <meta content="Creative Scala" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Creative Scala - Dave Gurnell &amp; Noel Welsh.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

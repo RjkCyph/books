@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9cfab08c-d80b-4785-b200-0c3e34f67a95</dc:identifier>
+        <dc:title>R: Easy R Programming for Beginners, Your Step-By-Step Guide to Learning R Progr</dc:title>
+        <dc:creator opf:file-as="Alvaro, Felix" opf:role="aut">Felix Alvaro</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-05-15T11:25:04+00:00</dc:date>
+        <dc:description>Learn R Programming Today With This Simple Step-By-Step, Ultimate Beginners Guide 2017!Updated &amp; Improved: June 2017Do you want to learn R Programming?Do you want a guide that is easy to follow, detailed and written to make the process as effortless as possible?If so, "R: Easy R Programming For Beginners- Your Step-By-Step Guide to Learning R Programming" by Felix Alvaro is the book for you! It breaks down the fundamental elements that are essential to make you a confident R programmer.With more than 2,000,000 global users, the R language is rapidly turning into a top programming language specifically in the space of data science as well as statistics. What you are going to learn in this step-by-step beginner's guide is how to master the fundamentals of such a gorgeous open-source programming language which includes vectors, data frames and lists.Because of the continuous growth of the data science industry, the demand for R Programmers is also rising. Today, anyone with the skill to program R is extremely valuable to the market place with average salaries for programmers at $115,000 per year! This book has been written to pass on the skill. What Separates This Book From The Rest?Unlike many of the books you will stumble upon on this topic, this book makes it easy for you to learn. The author brings you a unique guide that takes you through a natural sequence of lessons (step-by-step) whilst carefully explaining each concept and staying away from unnecessary technical jargon and defining the terms you must learn. This one-step-at-a-time approach allows anyone from an absolute beginner to a more knowledgeable programmer to easily grasp each lesson at their own pace and become more proficient as they progress through the book.In addition to that, this guide also contains images, examples and other tools to give you the assurance you are going in the right direction, as well as exercises that will allow you to retain up to 400% more of what you learn by practicing your exciting new skills! You Will Learn The Following:   The history of R programming and its benefits  How to install R &amp; R Studio and work with code editors The fundamentals of R syntax  Function &amp; Arguments  R Programming with user packages  Organizing data in Vectors  Working with Data-Frames and Matrices  Creating Lists  Effective coding in R  Controlling Logical Flow  Working with base graphics  Creating Faceted graphics using Lattice And much more!You have made an excellent decision by choosing to learn R Programming Language. Whether you are looking to land a high-paying job, want to delve into freelancing or want to work on your own projects, you have found the right book! Take the next step in the right direction by ordering your copy now!Order Now!See you inside!</dc:description>
+        <dc:publisher>CreateSpace Independent Publishing Platform</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">9NPKjwEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781533685018</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Felix Alvaro&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-02-27T11:19:23+00:00" name="calibre:timestamp"/>
+        <meta content="R: Easy R Programming for Beginners, Your Step-By-Step Guide to Learning R Progr" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="R_ Easy R Programming for Beginners, Your Step-By-Step Guide to Learning R Progr - Felix Alvaro.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

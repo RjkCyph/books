@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">77a3da96-d293-4e67-9116-ff854da000fb</dc:identifier>
+        <dc:title>Atomic Scala - Learn Programming in the Language of the Future</dc:title>
+        <dc:creator opf:file-as="Eckel, Dianne Marsh Bruce" opf:role="aut">Dianne Marsh Bruce Eckel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-03-27T21:27:58+00:00</dc:date>
+        <dc:description>&lt;p&gt;Atomic Scala introduces the foundations of the Scala programming language in very small steps (which we call atoms). The book is designed to simplify learning the language for both beginners and experienced programmers. Atomic Scala by Bruce Eckel and Dianne Marsh is now available as a print book (the eBook will appear later, once we sort out all the formatting issues, which are more involved because of fonts and code listings).&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;</dc:description>
+        <dc:identifier opf:scheme="AMAZON">0981872514</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780981872513</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Dianne Marsh Bruce Eckel&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2019-02-27T11:18:55+00:00" name="calibre:timestamp"/>
+        <meta content="Atomic Scala - Learn Programming in the Language of the Future" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Atomic Scala - Learn Programming in the Language of the Future - Dianne Marsh Bruce Eckel.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

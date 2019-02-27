@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6ea6fb0f-71b9-47f5-a6d1-9aee79a017f8</dc:identifier>
+        <dc:title>Programming in Scala: A Comprehensive Step-By-Step Guide, Third Edition</dc:title>
+        <dc:creator opf:file-as="Venners, Bill" opf:role="aut">Bill Venners</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-04-27T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Scala is an object-oriented programming language for the Java Virtual Machine. In addition to being object-oriented, Scala is also a functional language, and combines the best approaches to OO and functional programming.  &lt;/p&gt;
+&lt;p&gt;In Italian, Scala means a stairway, or steps. Indeed, Scala lets you step up to a programming environment that incorporates some of the best recent thinking in programming language design while also letting you use all your existing Java code.  &lt;/p&gt;
+&lt;p&gt;Artima is very pleased to publish a new edition of the best-selling book on Scala, written by the designer of the language, Martin Odersky. Co-authored by Lex Spoon and Bill Venners, this book takes a step-by-step tutorial approach to teaching you Scala. Starting with the fundamental elements of the language, Programming in Scala introduces functional programming from the practitioner's perspective, and describes advanced language features that can make you a better, more productive developer.&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;h3&gt;From the Inside Flap&lt;/h3&gt;
+&lt;p&gt;Programming in Scala, Third Edition, is the definitive book on Scala, the new language for the Java Platform that blends object-oriented and functional programming concepts into a unique and powerful tool for developers.Coauthored by the designer of the Scala language, this authoritative book will teach you, one step at a time, the Scala language and the ideas behind it.The book is carefully crafted to help you learn. The first few chapters will give you enough of the basics that you can already start using Scala for simple tasks. The entire book is organized so that each new concept builds on concepts that came before—a series of steps that promises to help you master the Scala language and the important ideas about programming that Scala embodies. A comprehensive tutorial and reference for Scala, this book covers the entire language and important libraries. &lt;/p&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p&gt;Programming in Scala Third Edition is the definitive book on Scala, the new language for the Java Platform that blends object-oriented and functional programming concepts into a unique and powerful tool for developers.   &lt;/p&gt;
+&lt;p&gt;Coauthored by the designer of the Scala language, this authoritative book will teach you, one step at a time, the Scala language and the ideas behind it.  &lt;/p&gt;
+&lt;p&gt;The book is carefully crafted to help you learn. The first few chapters will give you  enough of the basics that you can already start using Scala for simple tasks. The entire book is organized so that each new concept builds on concepts that came before--a series of steps that promises to help you master the Scala language and the important ideas about programming that Scala embodies.    &lt;/p&gt;
+&lt;p&gt;A comprehensive tutorial and reference for Scala, this book covers the entire language and important libraries.  &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;If I were to pick a language to use today other than Java, it would be Scala.&lt;/em&gt;  &lt;/p&gt;
+&lt;p&gt;--James Gosling, creator of Java  &lt;/p&gt;
+&lt;p&gt;If you read the second edition...  &lt;/p&gt;
+&lt;p&gt;This third edition brings the entire book, up to date, adding new material to cover features appearing in Scala versions 2.9 through Scala 2.12, including:  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;String interpolation&lt;/li&gt;
+&lt;li&gt;Functional Futures&lt;/li&gt;
+&lt;li&gt;Implicit classes&lt;/li&gt;
+&lt;li&gt;Defining new AnyVals&lt;/li&gt;
+&lt;li&gt;Typeclasses and context bounds&lt;/li&gt;
+&lt;li&gt;The latest style recommendations&lt;/li&gt;
+&lt;li&gt;SAM support in Scala 2.12&lt;/li&gt;
+&lt;/ul&gt;</dc:description>
+        <dc:publisher>Artima Press</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B01EX49FOU</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>2016</dc:subject>
+        <dc:subject>version=April 6</dc:subject>
+        <dc:subject>orderNumber=0B8GZ05FEi</dc:subject>
+        <meta content="{&quot;Bill Venners&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2019-02-27T11:19:06+00:00" name="calibre:timestamp"/>
+        <meta content="Programming in Scala: A Comprehensive Step-By-Step Guide, Third Edition" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Programming in Scala_ A Comprehensive Step-By-Step Guide, Third Edition - Bill Venners.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

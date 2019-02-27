@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">30976b30-fa12-480b-ba26-00887da0693c</dc:identifier>
+        <dc:title>Learning Python, Second Edition</dc:title>
+        <dc:creator opf:file-as="Lutz, Mark &amp; Ascher, David" opf:role="aut">Mark Lutz</dc:creator>
+        <dc:creator opf:file-as="Lutz, Mark &amp; Ascher, David" opf:role="aut">David Ascher</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-01-02T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Portable, powerful, and a breeze to use, Python is the popular open source object-oriented programming language used for both standalone programs and scripting applications. Python is considered easy to learn, but there's no quicker way to mastery of the language than learning from an expert teacher. This edition of &lt;em&gt;Learning Python&lt;/em&gt; puts you in the hands of two expert teachers, Mark Lutz and David Ascher, whose friendly, well-structured prose has guided many a programmer to proficiency with the language.   &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Learning Python&lt;/em&gt;, Second Edition, offers programmers a comprehensive learning tool for Python and object-oriented programming. Thoroughly updated for the numerous language and class presentation changes that have taken place since the release of the first edition in 1999, this guide introduces the basic elements of the latest release of Python 2.3 and covers new features, such as list comprehensions, nested scopes, and iterators/generators.   &lt;/p&gt;
+&lt;p&gt;Beyond language features, this edition of &lt;em&gt;Learning Python&lt;/em&gt; also includes new context for less-experienced programmers, including fresh overviews of object-oriented programming and dynamic typing, new discussions of program launch and configuration options, new coverage of documentation sources, and more. There are also new use cases throughout to make the application of language features more concrete.   &lt;/p&gt;
+&lt;p&gt;The first part of &lt;em&gt;Learning Python&lt;/em&gt; gives programmers all the information they'll need to understand and construct programs in the Python language, including types, operators, statements, classes, functions, modules and exceptions. The authors then present more advanced material, showing how Python performs common tasks by offering real applications and the libraries available for those applications. Each chapter ends with a series of exercises that will test your Python skills and measure your understanding.  &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Learning Python&lt;/em&gt;, Second Edition is a self-paced book that allows readers to focus on the core Python language in depth. As you work through the book, you'll gain a deep and complete understanding of the Python language that will help you to understand the larger application-level examples that you'll encounter on your own. If you're interested in learning Python--and want to do so quickly and efficiently--then &lt;em&gt;Learning Python&lt;/em&gt;, Second Edition is your best choice.&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1449355730</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780596002817</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>IT eBooks</dc:subject>
+        <dc:subject>www.it-ebooks.info</dc:subject>
+        <meta content="{&quot;Mark Lutz&quot;: &quot;&quot;, &quot;David Ascher&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2019-02-27T11:19:40+00:00" name="calibre:timestamp"/>
+        <meta content="Learning Python, Second Edition" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Learning Python, Second Edition - Mark Lutz &amp; David Ascher.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

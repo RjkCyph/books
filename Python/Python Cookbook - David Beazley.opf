@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">44380069-398c-4729-a4f7-26d38d582f59</dc:identifier>
+        <dc:title>Python Cookbook</dc:title>
+        <dc:creator opf:file-as="Beazley, David" opf:role="aut">David Beazley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-02-15T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Se precisar de ajuda para escrever programas em Python 3 ou desejar atualizar códigos antigos que estejam em Python 2, este livro é seu passaporte para isso. Cheio de receitas práticas, escritas e testadas com Python 3.3, este cookbook único está voltado para programadores experientes de Python que querem focar em ferramentas e recursos modernos. Neste livro, você encontrará receitas completas para mais de uma dúzia de tópicos que abordam a parte essencial da linguagem Python, bem como tarefas comuns a uma ampla variedade de áreas de aplicação. Toda receita contém exemplos de código que podem ser utilizados imediatamente em seus projetos, juntamente com uma discussão sobre como e por que a solução funciona. Os tópicos incluem: - Estruturas de dados e algoritmos - Strings e textos - Números, datas e horas - Iteradores e geradores - Arquivos e I/O - Codificação e processamento de dados - Funções - Classes e objetos - Metaprogramação - Módulos e pacotes - Redes e programação web - Concorrência - Criação de scripts utilitários e administração de sistemas - Testes, depuração e exceções - Extensões C.&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;</dc:description>
+        <dc:publisher>Novatec</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">8575223321</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788575223321</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;David Beazley&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-02-27T11:19:45+00:00" name="calibre:timestamp"/>
+        <meta content="Python Cookbook" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Python Cookbook - David Beazley.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

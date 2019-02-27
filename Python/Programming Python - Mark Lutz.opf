@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a1f27880-f7b5-4915-bb42-97f845747766</dc:identifier>
+        <dc:title>Programming Python</dc:title>
+        <dc:creator opf:file-as="Lutz, Mark" opf:role="aut">Mark Lutz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-09-02T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Already the industry standard for Python users, &lt;em&gt;ProgrammingPython&lt;/em&gt; fromO'Reilly just got even better. This third edition has been updated toreflect current best practices andthe abundance of changes introduced by the latest version of thelanguage, Python 2.5.&lt;/p&gt;
+&lt;p&gt;Whether you're a novice or an advancedpractitioner, you'll find thisrefreshed book more than lives up to its reputation. &lt;em&gt;ProgrammingPython&lt;/em&gt;, 3rd Edition, teaches you the rightway to code. It explains Python language syntax and programmingtechniques in a clear and concisemanner, with numerous examples that illustrate both correct usage andcommon idioms. By reading thiscomprehensive guide, you'll learn how to apply Python in real-worldproblem domains such as: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GUI programming&lt;/li&gt;
+&lt;li&gt;Internet scripting&lt;/li&gt;
+&lt;li&gt;Parallel processing&lt;/li&gt;
+&lt;li&gt;Database management&lt;/li&gt;
+&lt;li&gt;Networked applications&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Programming Python&lt;/em&gt;, Third Edition coverseach of thesetarget domainsgradually, beginning with in-depth discussions of core concepts andthen progressing toward completeprograms. Large examples do appear, but only after you've learnedenough to understand their techniques andcode.&lt;/p&gt;
+&lt;p&gt;Along the way, you'll also learn how to use the Python language inrealistically scaled programs--concepts such as Object-Oriented Programming (OOP) and code reuseare recurring side themes throughout thistext. If you're interested in Python programming, then this O'Reillyclassic needs to be within arm's reach. Thewealth of practical advice, snippets of code, and patterns of programdesign can all be put into use on adaily basis--making your life easier and more productive.&lt;/p&gt;
+&lt;p&gt;Reviews of the second edition:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;"...about as comprehensive as any book can be."&lt;/em&gt;&lt;br /&gt;
+--Dr. Dobb's Journal&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;"If the language had manuals, they would undoubtedlybe the texts from O'Reilly...'Learning Python' and 'Programming Python'are definitive treatments."&lt;/em&gt;&lt;br /&gt;
+--SD Times&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0596158106</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780596009250</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Mark Lutz&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2019-02-27T11:19:33+00:00" name="calibre:timestamp"/>
+        <meta content="Programming Python" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Programming Python - Mark Lutz.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

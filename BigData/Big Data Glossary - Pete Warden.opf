@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f5e3c6c0-c487-449b-bcff-498a70645e0e</dc:identifier>
+        <dc:title>Big Data Glossary</dc:title>
+        <dc:creator opf:file-as="Warden, Pete" opf:role="aut">Pete Warden</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-09-20T11:26:52+00:00</dc:date>
+        <dc:description>&lt;p&gt;To help you navigate the large number of new data tools available, this guide describes 60 of the most recent innovations, from NoSQL databases and MapReduce approaches to machine learning and visualization tools. Descriptions are based on first-hand experience with these tools in a production environment.&lt;/p&gt;
+&lt;p&gt;This handy glossary also includes a chapter of key terms that help define many of these tool categories:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;NoSQL Databases&lt;/strong&gt;—Document-oriented databases using a key/value interface rather than SQL&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MapReduce&lt;/strong&gt;—Tools that support distributed computing on large datasets&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Storage&lt;/strong&gt;—Technologies for storing data in a distributed way&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Servers&lt;/strong&gt;—Ways to rent computing power on remote machines&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Processing&lt;/strong&gt;—Tools for extracting valuable information from large datasets&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Natural Language Processing&lt;/strong&gt;—Methods for extracting information from human-created text&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Machine Learning&lt;/strong&gt;—Tools that automatically perform data analyses, based on results of a one-off analysis&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Visualization&lt;/strong&gt;—Applications that present meaningful data graphically&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Acquisition&lt;/strong&gt;—Techniques for cleaning up messy public data sources&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Serialization&lt;/strong&gt;—Methods to convert data structure or object state into a storable format&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;**&lt;/p&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">vAry8LAOW6kC</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1449314597</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781449314590</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Data Modeling &amp; Design</dc:subject>
+        <meta content="{&quot;Pete Warden&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2019-02-27T11:19:15+00:00" name="calibre:timestamp"/>
+        <meta content="Big Data Glossary" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Big Data Glossary - Pete Warden.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

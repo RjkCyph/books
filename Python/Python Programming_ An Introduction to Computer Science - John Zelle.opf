@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7e0fd3ed-b6c5-4489-a9ec-f7959d22aca2</dc:identifier>
+        <dc:title>Python Programming: An Introduction to Computer Science</dc:title>
+        <dc:creator opf:file-as="Zelle, John" opf:role="aut">John Zelle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-12-02T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;This book is designed to be used as the primary textbook in a college-level first course in computing. It takes a fairly traditional approach, emphasizing problem solving, design, and programming as the core skills of computer science. However, these ideas are illustrated using a non-traditional language, namely Python. Although Python is the language, teaching Python is not the main point of this book. Rather, Python is used to illustrate fundamental principles of design and programming that apply in any language or computing environment. In some places, certain Python features and idioms that are not generally found in other languages are avoided. There are already many good books about Python on the market; this book is intended as an introduction to computing.&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;</dc:description>
+        <dc:publisher>Franklin, Beedle &amp; Associates Inc.</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1887902996</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781887902991</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;John Zelle&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2019-02-27T11:19:38+00:00" name="calibre:timestamp"/>
+        <meta content="Python Programming: An Introduction to Computer Science" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Python Programming_ An Introduction to Computer Science - John Zelle.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

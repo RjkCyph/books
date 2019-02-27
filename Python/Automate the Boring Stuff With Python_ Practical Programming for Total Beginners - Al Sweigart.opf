@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6db62532-6100-463c-8f9a-4e4e756e2fcc</dc:identifier>
+        <dc:title>Automate the Boring Stuff With Python: Practical Programming for Total Beginners</dc:title>
+        <dc:creator opf:file-as="Sweigart, Al" opf:role="aut">Al Sweigart</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-04-14T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;If you’ve ever spent hours renaming files or updating hundreds of spreadsheet cells, you know how tedious tasks like these can be. But what if you could have your computer do them for you?  &lt;/p&gt;
+&lt;p&gt;In &lt;em&gt;Automate the Boring Stuff with Python&lt;/em&gt;, you’ll learn how to use Python to write programs that do in minutes what would take you hours to do by hand—no prior programming experience required. Once you’ve mastered the basics of programming, you’ll create Python programs that effortlessly perform useful and impressive feats of automation to:&lt;br /&gt;
+–Search for text in a file or across multiple files&lt;br /&gt;
+–Create, update, move, and rename files and folders&lt;br /&gt;
+–Search the Web and download online content&lt;br /&gt;
+–Update and format data in Excel spreadsheets of any size&lt;br /&gt;
+–Split, merge, watermark, and encrypt PDFs&lt;br /&gt;
+–Send reminder emails and text notifications&lt;br /&gt;
+–Fill out online forms  &lt;/p&gt;
+&lt;p&gt;Step-by-step instructions walk you through each program, and practice projects at the end of each chapter challenge you to improve those programs and use your newfound skills to automate similar tasks.  &lt;/p&gt;
+&lt;p&gt;Don’t spend your time doing work a well-trained monkey could do. Even if you’ve never written a line of code, you can make your computer do the grunt work. Learn how in &lt;em&gt;Automate the Boring Stuff with Python&lt;/em&gt;.  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Note: The programs in this book are written to run on Python 3.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;"I’m having a lot of fun breaking things and then putting them back together, and just remembering the joy of turning a set of instructions into something useful and fun, like I did when I was a kid." —Wil Wheaton  &lt;/p&gt;
+&lt;p&gt;"Do you need &lt;em&gt;Automate the Boring Stuff with Python&lt;/em&gt;? Yes, if you want to enhance your workflow by using automation, this is an excellent place to start. Highly recommended."—Network World**&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Al Sweigart is a software developer and teaches programming to kids and adults. He has written several Python books for beginners, including Hacking Secret Ciphers with Python, Invent Your Own Computer Games with Python, and Making Games with Python &amp;amp; Pygame.&lt;/p&gt;</dc:description>
+        <dc:publisher>No Starch Press</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B00WJ049VU</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Al Sweigart&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2019-02-27T11:19:31+00:00" name="calibre:timestamp"/>
+        <meta content="Automate the Boring Stuff With Python: Practical Programming for Total Beginners" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Automate the Boring Stuff With Python_ Practical Programming for Total Beginners - Al Sweigart.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

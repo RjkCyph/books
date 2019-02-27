@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">44124d39-410d-48cb-a7d9-0d1f24681b70</dc:identifier>
+        <dc:title>Building Big Data and Analytics Solutions in the Cloud</dc:title>
+        <dc:creator opf:file-as="Zhu, Wei-Dong &amp; Gupta, Manav &amp; Kumar, Ven &amp; Perepa, Sujatha &amp; Sathi, Arvind &amp; Statchuk, Craig &amp; Redbooks, Ibm" opf:role="aut">Wei-Dong Zhu</dc:creator>
+        <dc:creator opf:file-as="Zhu, Wei-Dong &amp; Gupta, Manav &amp; Kumar, Ven &amp; Perepa, Sujatha &amp; Sathi, Arvind &amp; Statchuk, Craig &amp; Redbooks, Ibm" opf:role="aut">Manav Gupta</dc:creator>
+        <dc:creator opf:file-as="Zhu, Wei-Dong &amp; Gupta, Manav &amp; Kumar, Ven &amp; Perepa, Sujatha &amp; Sathi, Arvind &amp; Statchuk, Craig &amp; Redbooks, Ibm" opf:role="aut">Ven Kumar</dc:creator>
+        <dc:creator opf:file-as="Zhu, Wei-Dong &amp; Gupta, Manav &amp; Kumar, Ven &amp; Perepa, Sujatha &amp; Sathi, Arvind &amp; Statchuk, Craig &amp; Redbooks, Ibm" opf:role="aut">Sujatha Perepa</dc:creator>
+        <dc:creator opf:file-as="Zhu, Wei-Dong &amp; Gupta, Manav &amp; Kumar, Ven &amp; Perepa, Sujatha &amp; Sathi, Arvind &amp; Statchuk, Craig &amp; Redbooks, Ibm" opf:role="aut">Arvind Sathi</dc:creator>
+        <dc:creator opf:file-as="Zhu, Wei-Dong &amp; Gupta, Manav &amp; Kumar, Ven &amp; Perepa, Sujatha &amp; Sathi, Arvind &amp; Statchuk, Craig &amp; Redbooks, Ibm" opf:role="aut">Craig Statchuk</dc:creator>
+        <dc:creator opf:file-as="Zhu, Wei-Dong &amp; Gupta, Manav &amp; Kumar, Ven &amp; Perepa, Sujatha &amp; Sathi, Arvind &amp; Statchuk, Craig &amp; Redbooks, Ibm" opf:role="aut">Ibm Redbooks</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-12-08T11:27:00+00:00</dc:date>
+        <dc:description>Big data is currently one of the most critical emerging technologies. Organizations around the world are looking to exploit the explosive growth of data to unlock previously hidden insights in the hope of creating new revenue streams, gaining operational efficiencies, and obtaining greater understanding of customer needs.It is important to think of big data and analytics together. Big data is the term used to describe the recent explosion of different types of data from disparate sources. Analytics is about examining data to derive interesting and relevant trends and patterns, which can be used to inform decisions, optimize processes, and even drive new business models. With today's deluge of data comes the problems of processing that data, obtaining the correct skills to manage and analyze that data, and establishing rules to govern the data's use and distribution. The big data technology stack is ever growing and sometimes confusing, even more so when we add the complexities of setting up big data environments with large up-front investments.Cloud computing seems to be a perfect vehicle for hosting big data workloads. However, working on big data in the cloud brings its own challenge of reconciling two contradictory design principles. Cloud computing is based on the concepts of consolidation and resource pooling, but big data systems (such as Hadoop) are built on the shared nothing principle, where each node is independent and self-sufficient. A solution architecture that can allow these mutually exclusive principles to coexist is required to truly exploit the elasticity and ease-of-use of cloud computing for big data environments.This IBM® RedpaperTM publication is aimed at chief architects, line-of-business executives, and CIOs to provide an understanding of the cloud-related challenges they face and give prescriptive guidance for how to realize the benefits of big data solutions quickly and cost-effectively.</dc:description>
+        <dc:publisher>IBM Redbooks</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">dGu-BQAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780738453996</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Cloud Computing</dc:subject>
+        <meta content="{&quot;Ven Kumar&quot;: &quot;&quot;, &quot;Manav Gupta&quot;: &quot;&quot;, &quot;Ibm Redbooks&quot;: &quot;&quot;, &quot;Wei-Dong Zhu&quot;: &quot;&quot;, &quot;Sujatha Perepa&quot;: &quot;&quot;, &quot;Arvind Sathi&quot;: &quot;&quot;, &quot;Craig Statchuk&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-02-27T11:19:17+00:00" name="calibre:timestamp"/>
+        <meta content="Building Big Data and Analytics Solutions in the Cloud" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Building Big Data and Analytics Solutions in the Cloud - Wei-Dong Zhu &amp; Manav Gupta &amp; Ven Kumar &amp; Sujatha Perepa &amp; Arvind Sathi &amp; Craig Statchuk &amp; Ibm Redbooks.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

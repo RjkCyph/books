@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a34a5da4-b40a-4030-b0e0-6719baee2791</dc:identifier>
+        <dc:title>Scala in Action: Covers Scala 2.10</dc:title>
+        <dc:creator opf:file-as="Raychaudhuri, Nilanjan" opf:role="aut">Nilanjan Raychaudhuri</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-04-13T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Scala in Action&lt;/em&gt; is a comprehensive tutorial that introduces Scala through clear explanations and numerous hands-on examples. Because Scala is a rich and deep language, it can be daunting to absorb all the new concepts at once. This book takes a "how-to" approach, explaining language concepts as you explore familiar programming challenges that you face in your day-to-day work.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the Technology&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Scala runs on the JVM and combines object-orientation with functional programming. It's designed to produce succinct, type-safe code, which is crucial for enterprise applications. Scala implements Actor-based concurrency through the amazing Akka framework, so you can avoid Java's messy threading while interacting seamlessly with Java.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About this Book&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Scala in Action&lt;/em&gt; is a comprehensive tutorial that introduces the language through clear explanations and numerous hands-on examples. It takes a "how to" approach, explaining language concepts as you explore familiar programming tasks. You'll tackle concurrent programming in Akka, learn to work with Scala and Spring, and learn how to build DSLs and other productivity tools. You'll learn both the language and how to use it.&lt;/p&gt;
+&lt;p&gt;Experience with Java is helpful but not required. Ruby and Python programmers will also find this book accessible.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What's Inside&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A Scala tutorial&lt;/li&gt;
+&lt;li&gt;How to use Java and Scala open source libraries&lt;/li&gt;
+&lt;li&gt;How to use SBT&lt;/li&gt;
+&lt;li&gt;Test-driven development&lt;/li&gt;
+&lt;li&gt;Debugging&lt;/li&gt;
+&lt;li&gt;Updated for Scala 2.10&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the Author&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nilanjan Raychaudhuri&lt;/strong&gt; is a skilled developer, speaker, and an avid polyglot programmer who works with Scala on production systems.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table of Contents&lt;/strong&gt;&lt;/p&gt;
+&lt;h5&gt;PART 1 SCALA: THE BASICS&lt;/h5&gt;
+&lt;ol&gt;
+&lt;li&gt;Why Scala?&lt;/li&gt;
+&lt;li&gt;Getting started&lt;/li&gt;
+&lt;li&gt;OOP in Scala&lt;/li&gt;
+&lt;li&gt;Having fun with functional data structures&lt;/li&gt;
+&lt;li&gt;Functional programming&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5&gt;PART 2 WORKING WITH SCALA&lt;/h5&gt;
+&lt;ol&gt;
+&lt;li&gt;Building web applications in functional style&lt;/li&gt;
+&lt;li&gt;Connecting to a database&lt;/li&gt;
+&lt;li&gt;Building scalable and extensible components&lt;/li&gt;
+&lt;li&gt;Concurrency programming in Scala&lt;/li&gt;
+&lt;li&gt;Building confidence with testing&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5&gt;PART 3 ADVANCED STEPS&lt;/h5&gt;
+&lt;ol&gt;
+&lt;li&gt;Interoperability between Scala and Java&lt;/li&gt;
+&lt;li&gt;Scalable and distributed applications using Akka&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;**&lt;/p&gt;</dc:description>
+        <dc:publisher>Manning Publications</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1935182757</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781935182757</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>IT eBooks</dc:subject>
+        <dc:subject>www.it-ebooks.info</dc:subject>
+        <meta content="{&quot;Nilanjan Raychaudhuri&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2019-02-27T11:18:58+00:00" name="calibre:timestamp"/>
+        <meta content="Scala in Action: Covers Scala 2.10" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Scala in Action_ Covers Scala 2.10 - Nilanjan Raychaudhuri.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

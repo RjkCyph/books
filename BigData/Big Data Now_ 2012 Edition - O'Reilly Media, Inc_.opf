@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7a6a3b74-6022-43fa-98a5-7621a5c6afe0</dc:identifier>
+        <dc:title>Big Data Now: 2012 Edition</dc:title>
+        <dc:creator opf:file-as="O'Reilly Media, Inc." opf:role="aut">O'Reilly Media, Inc.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-23T11:26:41+00:00</dc:date>
+        <dc:description>The Big Data Now anthology is relevant to anyone who creates, collectsor relies upon data. It's not just a technical book or just a businessguide. Data is ubiquitous and it doesn't pay much attention toborders, so we've calibrated our coverage to follow it wherever itgoes.In the first edition of Big Data Now, the O'Reilly team tracked thebirth and early development of data tools and data science. Now, withthis second edition, we're seeing what happens when big data grows up:how it's being applied, where it's playing a role, and theconsequences -- good and bad alike -- of data's ascendance.We've organized the second edition of Big Data Now into five areas:Getting Up to Speed With Big Data -- Essential information on thestructures and definitions of big data.Big Data Tools, Techniques, and Strategies -- Expert guidance forturning big data theories into big data products.The Application of Big Data -- Examples of big data in action,including a look at the downside of data.What to Watch for in Big Data -- Thoughts on how big data will evolveand the role it will play across industries and domains.Big Data and Health Care -- A special section exploring thepossibilities that arise when data and health care come together.</dc:description>
+        <dc:publisher>"O'Reilly Media, Inc."</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">DhATUBDFyI0C</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781449356682</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Data Processing</dc:subject>
+        <meta content="{&quot;O'Reilly Media, Inc.&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-02-27T11:19:12+00:00" name="calibre:timestamp"/>
+        <meta content="Big Data Now: 2012 Edition" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Big Data Now_ 2012 Edition - O'Reilly Media, Inc_.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

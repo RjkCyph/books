@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d323bf12-f61e-4cd3-bbaf-fbaa1279635b</dc:identifier>
+        <dc:title>Python Crash Course: The Ultimate Beginners Guide That Intermediate and Advanced Users Can Also Find Use In! (Python Crash Course, Python Programming, Python for Beginners, Learn Python)</dc:title>
+        <dc:creator opf:file-as="Abner, Ben" opf:role="aut">Ben Abner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-10-26T22:01:49+00:00</dc:date>
+        <dc:description>&lt;h2&gt;A guided look into the world of Python programming!&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Today only, get this book for just $2.99. Regularly priced at $5.99.&lt;br /&gt;
+Read on your PC, Mac, smart phone, tablet or Kindle device.&lt;/strong&gt;  &lt;/p&gt;
+&lt;p&gt;You’re about to discover how to...&lt;br /&gt;
+I want to thank you for downloading the book, Python for beginner, intermediate and advanced programmers. This book contains all the information that you need to know about Python in a compact and to the point format. It is a great resource to teach you all the basics of Python programming. The book is structured so that it starts with bare basics and progresses to more difficult concepts. The aim is to build up the student’s knowledge from the ground up. The book is targeted at people who know a little about programming. Therefore, some of the language used will not be totally foreign and overwhelming. There are many examples to look at and references to other resources are also made throughout the book. Flow charts are also used to gain a better understanding of how concepts such as loops work. Summaries of each chapter are located at the end of every chapter. This is so that the student can easily go through the main ideas that each chapter was aimed at teaching. The book is primarily for beginners. However, intermediate and more advanced users can find it useful because there may come a time when they need to revise certain basic concepts. Take action and get started on your journey with the great programming language that is Python by purchasing this Python Crash Course.  &lt;/p&gt;
+&lt;h2&gt;Here Is just A Preview Of the many things that You will Learn...&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;A little about Python and programming&lt;/li&gt;
+&lt;li&gt;History of Python and how to install it&lt;/li&gt;
+&lt;li&gt;Beginning with the Python syntax&lt;/li&gt;
+&lt;li&gt;Conditional statements&lt;/li&gt;
+&lt;li&gt;Functions in Python&lt;/li&gt;
+&lt;li&gt;How to write your own functions&lt;/li&gt;
+&lt;li&gt;Iterations and loops  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Download your copy today as this book provides a lot of value for a small price.&lt;/strong&gt;&lt;br /&gt;
+Take action today and get this book for a limited time discount of only $2.99!  &lt;/p&gt;
+&lt;p&gt;Python, Python course, Python book, learning Python, Python language, Python examples, Python tutorials, Python programming language, Python coding, Python programming for beginners, Python for Dummies  &lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;</dc:description>
+        <dc:identifier opf:scheme="AMAZON">B01IZY9ZZS</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">1535547626</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Ben Abner&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="10" name="calibre:rating"/>
+        <meta content="2019-02-27T11:19:30+00:00" name="calibre:timestamp"/>
+        <meta content="Python Crash Course: The Ultimate Beginners Guide That Intermediate and Advanced Users Can Also Find Use In! (Python Crash Course, Python Programming, Python for Beginners, Learn Python)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Python Crash Course_ The Ultimate Beginners Guide That Intermediate and Advanced Users Can Also Find Use In! (Python Crash Course, Python Programming, Python for Beginners, Learn Python) - Ben Abner.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

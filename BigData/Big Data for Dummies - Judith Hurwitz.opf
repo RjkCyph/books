@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e877c560-e2ab-437a-929d-bd9b7dd4279d</dc:identifier>
+        <dc:title>Big Data for Dummies</dc:title>
+        <dc:creator opf:file-as="Hurwitz, Judith" opf:role="aut">Judith Hurwitz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-07-13T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;em&gt;&lt;em&gt;This is the hardcover format of &lt;/em&gt;Big Data For Dummies&lt;/em&gt;  &lt;/p&gt;
+&lt;p&gt;Find the right big data solution for your business or organization**&lt;/p&gt;
+&lt;p&gt;Big data management is one of the major challenges facing business, industry, and not-for-profit organizations. Data sets such as customer transactions for a mega-retailer, weather patterns monitored by meteorologists, or social network activity can quickly outpace the capacity of traditional data management tools. If you need to develop or manage big data solutions, you'll appreciate how these four experts define, explain, and guide you through this new and often confusing concept. You'll learn what it is, why it matters, and how to choose and implement solutions that work.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Effectively managing big data is an issue of growing importance to businesses, not-for-profit organizations, government, and IT professionals&lt;/li&gt;
+&lt;li&gt;Authors are experts in information management, big data, and a variety of solutions&lt;/li&gt;
+&lt;li&gt;Explains big data in detail and discusses how to select and implement a solution, security concerns to consider, data storage and presentation issues, analytics, and much more&lt;/li&gt;
+&lt;li&gt;Provides essential information in a no-nonsense, easy-to-understand style that is empowering&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Big Data For Dummies&lt;/em&gt; cuts through the confusion and helps you take charge of big data solutions for your organization.&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;</dc:description>
+        <dc:publisher>For Dummies</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1119173795</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781119173793</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Judith Hurwitz&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2019-02-27T11:19:19+00:00" name="calibre:timestamp"/>
+        <meta content="Big Data for Dummies" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Big Data for Dummies - Judith Hurwitz.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

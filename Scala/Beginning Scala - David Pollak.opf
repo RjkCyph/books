@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ebf41b49-bc56-4f18-8a27-82ef9699585a</dc:identifier>
+        <dc:title>Beginning Scala</dc:title>
+        <dc:creator opf:file-as="Pollak, David" opf:role="aut">David Pollak</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-01T11:28:22+00:00</dc:date>
+        <dc:description>A curious attribute of the Scala programming language is that it expends a lot of expressive power in order to make the life of casual programmers simpler. For instance, Scala provides sophisticated type parametrization and traits so that more advanced programmers can design libraries which are at the same time general and easy to use. Casual users can profit from these libraries long before they discover the full power of Scala’s abstraction constructs. The language design avoids the temptation of simply defining some handy primitives in the syntax, even if these primitives would be useful many times to many users. Instead of fixed primitives, the language design tries very hard to provide general construction principles, with which users can then define their own fundamental constructs, at no loss in syntactic convenience. This idea ranges from simple things, such as being able to define your own numeric data types, to full-blown domain-specific APIs such as Scala’s support for concurrent actors. There is hardly a better example of this approach than David Pollak’s Lift Web Framework for Scala. It leverages the full expressive power of Scala to provide a framework that’s at the same time simple to use, powerful, and secure. David has been one of the earliest adopters of Scala. He has become a crystallization point for many important developments in the Scala community. He fostered the vibrant Lift community, organized the first Scala Lift Off conference in 2008, and promoted the adoption of Scala in many important industrial applications.</dc:description>
+        <dc:publisher>Apress</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">MNVdPtH2XRQC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781430219903</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>Java</dc:subject>
+        <dc:subject>Software Development &amp; Engineering</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <meta content="{&quot;David Pollak&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-02-27T11:18:59+00:00" name="calibre:timestamp"/>
+        <meta content="Beginning Scala" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Beginning Scala - David Pollak.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

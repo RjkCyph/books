@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">013addd4-af6e-4f7e-aa4a-a61070fa9c76</dc:identifier>
+        <dc:title>Scala in Depth</dc:title>
+        <dc:creator opf:file-as="Suereth, Joshua D." opf:role="aut">Joshua D. Suereth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-15T11:28:28+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Scala in Depth&lt;/em&gt; is a unique new book designed to help you integrate Scala effectively into your development process. By presenting the emerging best practices and designs from the Scala community, it guides you through dozens of powerful techniques example by example.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the Book&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Scala is a powerful JVM language that blends the functional and OO programming models. You'll have no trouble getting introductions to Scala in books or online, but it's hard to find great examples and insights from experienced practitioners. You'll find them in Scala in Depth.&lt;/p&gt;
+&lt;p&gt;There's little heavy-handed theory here—just dozens of crisp, practical techniques for coding in Scala. Written for readers who know Java, Scala, or another OO language.&lt;/p&gt;
+&lt;p&gt;Purchase of the print book comes with an offer of a free PDF, ePub, and Kindle eBook from Manning. Also available is all code from the book. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What's Inside&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Concise, expressive, and readable code style&lt;/li&gt;
+&lt;li&gt;How to integrate Scala into your existing Java projects&lt;/li&gt;
+&lt;li&gt;Scala's 2.8.0 collections API&lt;/li&gt;
+&lt;li&gt;How to use actors for concurrent programming&lt;/li&gt;
+&lt;li&gt;Mastering the Scala type system&lt;/li&gt;
+&lt;li&gt;Scala's OO features—type member inheritance, multiple inheritance, and composition&lt;/li&gt;
+&lt;li&gt;Functional concepts and patterns—immutability, applicative functors, and monads&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;========================================​==========&lt;/p&gt;
+&lt;h4&gt;&lt;strong&gt;Table of Contents&lt;/strong&gt;&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Scala—a blended language&lt;/li&gt;
+&lt;li&gt;The core rules&lt;/li&gt;
+&lt;li&gt;Modicum of style—coding conventions&lt;/li&gt;
+&lt;li&gt;Utilizing object orientation&lt;/li&gt;
+&lt;li&gt;Using implicits to write expressive code&lt;/li&gt;
+&lt;li&gt;The type system&lt;/li&gt;
+&lt;li&gt;Using implicits and types together&lt;/li&gt;
+&lt;li&gt;Using the right collection&lt;/li&gt;
+&lt;li&gt;Actors&lt;/li&gt;
+&lt;li&gt;Integrating Scala with Java&lt;/li&gt;
+&lt;li&gt;Patterns in functional programming&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;**&lt;/p&gt;</dc:description>
+        <dc:publisher>Manning</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">4VCfSgAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1935182706</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781935182702</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta content="{&quot;Joshua D. Suereth&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2019-02-27T11:19:01+00:00" name="calibre:timestamp"/>
+        <meta content="Scala in Depth" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Scala in Depth - Joshua D. Suereth.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aaa2b4cb-fec1-44c2-8521-bfa6f45a140c</dc:identifier>
+        <dc:title>Functional Programming in Scala</dc:title>
+        <dc:creator opf:file-as="Chiusano, Paul" opf:role="aut">Paul Chiusano</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-09-14T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Functional Programming in Scala&lt;/em&gt; is a serious tutorial for programmers looking to learn FP and apply it to the everyday business of coding. The book guides readers from basic techniques to advanced topics in a logical, concise, and clear progression. In it, you'll find concrete examples and exercises that open up the world of functional programming.&lt;/p&gt;
+&lt;p&gt;Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the Technology&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Functional programming (FP) is a style of software development emphasizing functions that don't depend on program state. Functional code is easier to test and reuse, simpler to parallelize, and less prone to bugs than other code. Scala is an emerging JVM language that offers strong support for FP. Its familiar syntax and transparent interoperability with Java make Scala a great place to start learning FP. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the Book&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Functional Programming in Scala&lt;/em&gt; is a serious tutorial for programmers looking to learn FP and apply it to their everyday work. The book guides readers from basic techniques to advanced topics in a logical, concise, and clear progression. In it, you'll find concrete examples and exercises that open up the world of functional programming.&lt;/p&gt;
+&lt;p&gt;This book assumes no prior experience with functional programming. Some prior exposure to Scala or Java is helpful. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What's Inside&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Functional programming concepts&lt;/li&gt;
+&lt;li&gt;The whys and hows of FP&lt;/li&gt;
+&lt;li&gt;How to write multicore programs&lt;/li&gt;
+&lt;li&gt;Exercises and checks for understanding&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;About the Authors&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Paul Chiusano&lt;/strong&gt; and &lt;strong&gt;Rúnar Bjarnason&lt;/strong&gt; are recognized experts in functional programming with Scala and are core contributors to the Scalaz library.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table of Contents&lt;/strong&gt;&lt;/p&gt;
+&lt;h5&gt;PART 1 INTRODUCTION TO FUNCTIONAL PROGRAMMING&lt;/h5&gt;
+&lt;ol&gt;
+&lt;li&gt;What is functional programming? &lt;/li&gt;
+&lt;li&gt;Getting started with functional programming in Scala&lt;/li&gt;
+&lt;li&gt;Functional data structures&lt;/li&gt;
+&lt;li&gt;Handling errors without exceptions&lt;/li&gt;
+&lt;li&gt;Strictness and laziness&lt;/li&gt;
+&lt;li&gt;Purely functional state&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5&gt;PART 2 FUNCTIONAL DESIGN AND COMBINATOR LIBRARIES&lt;/h5&gt;
+&lt;ol&gt;
+&lt;li&gt;Purely functional parallelism&lt;/li&gt;
+&lt;li&gt;Property-based testing&lt;/li&gt;
+&lt;li&gt;Parser combinators&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5&gt;PART 3 COMMON STRUCTURES IN FUNCTIONAL DESIGN&lt;/h5&gt;
+&lt;ol&gt;
+&lt;li&gt;Monoids&lt;/li&gt;
+&lt;li&gt;Monads&lt;/li&gt;
+&lt;li&gt;Applicative and traversable functors&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5&gt;PART 4 EFFECTS AND I/O&lt;/h5&gt;
+&lt;ol&gt;
+&lt;li&gt;External effects and I/O&lt;/li&gt;
+&lt;li&gt;Local effects and mutable state&lt;/li&gt;
+&lt;li&gt;Stream processing and incremental I/O&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;**&lt;/p&gt;</dc:description>
+        <dc:publisher>Manning Publications</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1617290653</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">ee4ffb3b-0b99-4dcb-bfb1-cc31a10103c5</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781617290657</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Paul Chiusano&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2019-02-27T11:18:56+00:00" name="calibre:timestamp"/>
+        <meta content="Functional Programming in Scala" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Functional Programming in Scala - Paul Chiusano.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

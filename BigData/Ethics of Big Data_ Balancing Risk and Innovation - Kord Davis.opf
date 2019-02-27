@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b0bc5f65-f0c3-42c4-9e9b-9af6690dad37</dc:identifier>
+        <dc:title>Ethics of Big Data: Balancing Risk and Innovation</dc:title>
+        <dc:creator opf:file-as="Davis, Kord" opf:role="aut">Kord Davis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-09-13T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;What are your organization’s policies for generating and using huge datasets full of personal information? This book examines ethical questions raised by the big data phenomenon, and explains why enterprises need to reconsider business decisions concerning privacy and identity. Authors Kord Davis and Doug Patterson provide methods and techniques to help your business engage in a transparent and productive ethical inquiry into your current data practices.&lt;/p&gt;
+&lt;p&gt;Both individuals and organizations have legitimate interests in understanding how data is handled. Your use of data can directly affect brand quality and revenue—as Target, Apple, Netflix, and dozens of other companies have discovered. With this book, you’ll learn how to align your actions with explicit company values and preserve the trust of customers, partners, and stakeholders.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Review your data-handling practices and examine whether they reflect core organizational values&lt;/li&gt;
+&lt;li&gt;Express coherent and consistent positions on your organization’s use of big data&lt;/li&gt;
+&lt;li&gt;Define tactical plans to close gaps between values and practices—and discover how to maintain alignment as conditions change over time&lt;/li&gt;
+&lt;li&gt;Maintain a balance between the benefits of innovation and the risks of unintended consequences&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;h3&gt;Amazon.com Review&lt;/h3&gt;
+&lt;h3&gt;&lt;em&gt;Ethics of Big Data&lt;/em&gt; author Kord Davis remembers exactly why he decided to write his book.&lt;/h3&gt;
+&lt;p&gt;"I found myself attending dozens of working meetings where a big data technologist would suggest a new product feature that was available using big data technology and having other folks in the room begin the that’s-creepy-no-it’s-not debate," Davis says.&lt;/p&gt;
+&lt;p&gt;"Those debates would end with no decision or action being agreed upon. I realized that in the absence of a common framework and vocabulary for discussion, &lt;strong&gt;people revert to their own moral code.&lt;/strong&gt;" Davis feels that his concise book is timely because, he says, "Big data is literally changing what we value and how we value things. "What I call big data's 'forcing function' is the result of the volume, velocity, and variety of big data’s growth. Touching nearly all aspects of our lives, we are just now beginning to understand how it will influence our values and the meaning of words like identity, privacy, ownership, and reputation."&lt;/p&gt;
+&lt;p&gt;And what we don't know can most definitely hurt us. "Individuals and organizations can suffer direct harm as a result of information being used in ways that it wasn’t intended," Davis cautions. "This book addresses how to balance the benefits of big data innovation with the risk of harm from unintended consequences."&lt;/p&gt;
+&lt;h3&gt;Book Description&lt;/h3&gt;
+&lt;p&gt;Balancing Risk and Innovation &lt;/p&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B009B58FR0</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Kord Davis&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2019-02-27T11:19:25+00:00" name="calibre:timestamp"/>
+        <meta content="Ethics of Big Data: Balancing Risk and Innovation" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Ethics of Big Data_ Balancing Risk and Innovation - Kord Davis.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

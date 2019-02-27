@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">92c1ce8c-3181-489b-9787-f93040e7cc12</dc:identifier>
+        <dc:title>Scala for the Impatient</dc:title>
+        <dc:creator opf:file-as="Horstmann, Cay S." opf:role="aut">Cay S. Horstmann</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-12-28T00:00:00+00:00</dc:date>
+        <dc:description>&lt;hr /&gt;
+&lt;p&gt;This is the eBook of the printed book and may not include any media, website access codes, or print supplements that may come packaged with the bound book.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;* * &lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;Interest in the Scala programming language continues to grow for many reasons. Scala embraces the functional programming style without abandoning the object-oriented paradigm, and it allows you to write programs more concisely than in Java. Because Scala runs on the JVM, it can access any Java library and is interoperable with familiar Java frameworks. Scala also makes it easier to leverage the full power of concurrency. &lt;/p&gt;
+&lt;p&gt;Written for experienced Java, C++, or C# programmers who are new to Scala or functional programming, * &lt;strong&gt;Scala for the Impatient, Second Edition,&lt;/strong&gt; * introduces the key Scala concepts and techniques you need in order to be productive quickly. It is the perfect introduction to the language, particularly for impatient readers who want to learn the fundamentals of Scala so they can start coding quickly. It doesn’t attempt to exhaustively list all the features of the language or make you suffer through long and contrived examples. Instead, carefully crafted examples and hands-on activities guide you through well-defined stages of competency, from basic to expert. &lt;/p&gt;
+&lt;p&gt;This revised edition has been thoroughly updated for Scala 2.12 and reflects current Scala usage. It includes added coverage of recent Scala features, including string interpolation, dynamic invocation, implicit classes, and futures. Scala is a big language, but you can use it effectively without knowing all of its details intimately. This title provides precisely the information that you need to get started in compact, easy-to-understand chunks. &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Get started quickly with Scala’s interpreter, syntax, tools, and unique idioms &lt;/li&gt;
+&lt;li&gt;Master core language features: functions, arrays, maps, tuples, packages, imports, exception handling, and more &lt;/li&gt;
+&lt;li&gt;Become familiar with object-oriented programming in Scala: classes, inheritance, and traits &lt;/li&gt;
+&lt;li&gt;Use Scala for real-world programming tasks: working with files, regular expressions, and XML &lt;/li&gt;
+&lt;li&gt;Work with higher-order functions and the powerful Scala collections library &lt;/li&gt;
+&lt;li&gt;Leverage Scala’s powerful pattern matching and case classes &lt;/li&gt;
+&lt;li&gt;Create concurrent programs with Scala futures &lt;/li&gt;
+&lt;li&gt;Implement domain-specific languages &lt;/li&gt;
+&lt;li&gt;Understand the Scala type system &lt;/li&gt;
+&lt;li&gt;Apply advanced “power tools,” such as annotations, implicits, and type classes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Cay S. Horstmann&lt;/strong&gt; is principal author of &lt;em&gt;Core Java®, Volumes I &amp;amp; II, Tenth Edition&lt;/em&gt; (Prentice Hall), as well as a dozen other books for professional programmers and computer science students. He is a professor of computer science at San Jose State University and a Java Champion.&lt;/p&gt;</dc:description>
+        <dc:publisher>Addison-Wesley Professional</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B01MR67YSO</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Cay S. Horstmann&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="7" name="calibre:rating"/>
+        <meta content="2019-02-27T11:19:09+00:00" name="calibre:timestamp"/>
+        <meta content="Scala for the Impatient" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Scala for the Impatient - Cay S. Horstmann.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

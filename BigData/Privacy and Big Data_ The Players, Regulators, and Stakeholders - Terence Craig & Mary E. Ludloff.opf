@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dcfedafd-5472-4777-a02a-4e88a2c6cd39</dc:identifier>
+        <dc:title>Privacy and Big Data: The Players, Regulators, and Stakeholders</dc:title>
+        <dc:creator opf:file-as="Craig, Terence &amp; Ludloff, Mary E." opf:role="aut">Terence Craig</dc:creator>
+        <dc:creator opf:file-as="Craig, Terence &amp; Ludloff, Mary E." opf:role="aut">Mary E. Ludloff</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-02T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Much of what constitutes Big Data is information about us. Through our online activities, we leave an easy-to-follow trail of digital footprints that reveal who we are, what we buy, where we go, and much more. This eye-opening book explores the raging privacy debate over the use of personal data, with one undeniable conclusion: once data's been collected, we have absolutely no control over who uses it or how it is used.&lt;/p&gt;
+&lt;p&gt;Personal data is the hottest commodity on the market today—truly more valuable than gold. We are the asset that every company, industry, non-profit, and government wants. Privacy and Big Data introduces you to the players in the personal data game, and explains the stark differences in how the U.S., Europe, and the rest of the world approach the privacy issue.&lt;/p&gt;
+&lt;p&gt;You'll learn about:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Collectors:&lt;/strong&gt; social networking titans that collect, share, and sell user data&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Users:&lt;/strong&gt; marketing organizations, government agencies, and many others&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Data markets:&lt;/strong&gt; companies that aggregate and sell datasets to anyone&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Regulators:&lt;/strong&gt; governments with one policy for commercial data use, and another for providing security&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;**&lt;/p&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1449305008</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781449305000</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Terence Craig&quot;: &quot;&quot;, &quot;Mary E. Ludloff&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2019-02-27T11:19:22+00:00" name="calibre:timestamp"/>
+        <meta content="Privacy and Big Data: The Players, Regulators, and Stakeholders" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Privacy and Big Data_ The Players, Regulators, and Stakeholders - Terence Craig &amp; Mary E. Ludloff.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
