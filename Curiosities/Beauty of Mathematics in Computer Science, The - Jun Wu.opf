@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">201</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">df4702ab-4db4-4006-ae96-8d4b32061aa6</dc:identifier>
+        <dc:title>The Beauty of Mathematics in Computer Science</dc:title>
+        <dc:creator opf:file-as="Wu, Jun" opf:role="aut">Jun Wu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-11-07T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;strong&gt;The Beauty of Mathematics in Computer Science&lt;/strong&gt; explains the mathematical fundamentals of information technology products and services we use every day, from Google Web Search to GPS Navigation, and from speech recognition to CDMA mobile services. The book was published in Chinese in 2011 and has sold more than 600,000 copies. Readers were surprised to find that many daily-used IT technologies were so tightly tied to mathematical principles. For example, the automatic classification of news articles uses the cosine law taught in high school.&lt;/p&gt;
+&lt;p&gt;The book covers many topics related to computer applications and applied mathematics including: &lt;/p&gt;
+&lt;p&gt;Natural language processing &lt;/p&gt;
+&lt;p&gt;Speech recognition and machine translation&lt;/p&gt;
+&lt;p&gt;Statistical language modeling&lt;/p&gt;
+&lt;p&gt;Quantitive measurement of information&lt;/p&gt;
+&lt;p&gt;Graph theory and web crawler&lt;/p&gt;
+&lt;p&gt;Pagerank for web search&lt;/p&gt;
+&lt;p&gt;Matrix operation and document classification&lt;/p&gt;
+&lt;p&gt;Mathematical background of big data &lt;/p&gt;
+&lt;p&gt;Neural networks and Google’s deep learning&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Jun Wu&lt;/strong&gt; was a staff research scientist in Google who invented Google’s Chinese, Japanese, and Korean Web Search Algorithms and was responsible for many Google machine learning projects. He wrote official blogs introducing Google technologies behind its products in very simple languages for Chinese Internet users from 2006-2010. The blogs had more than 2 million followers. Wu received PhD in computer science from Johns Hopkins University and has been working on speech recognition and natural language processing for more than 20 years. He was one of the earliest engineers of Google, managed many products of the company, and was awarded 19 US patents during his 10-year tenure there. Wu became a full-time VC investor and co-founded Amino Capital in Palo Alto in 2014 and is the author of eight books.&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;</dc:description>
+        <dc:publisher>Routledge</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781138049604</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1138049603</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Jun Wu&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="10" name="calibre:rating"/>
+        <meta content="2019-03-07T10:03:39.806259+00:00" name="calibre:timestamp"/>
+        <meta content="Beauty of Mathematics in Computer Science, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Beauty of Mathematics in Computer Science, The - Jun Wu.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

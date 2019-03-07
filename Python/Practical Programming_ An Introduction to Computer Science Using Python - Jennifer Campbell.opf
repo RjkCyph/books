@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">184</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">37a4eea4-f4c2-40a2-b506-aac7a87a1b7d</dc:identifier>
+        <dc:title>Practical Programming: An Introduction to Computer Science Using Python</dc:title>
+        <dc:creator opf:file-as="Campbell, Jennifer" opf:role="aut">Jennifer Campbell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-03-15T10:07:40.878884+00:00</dc:date>
+        <dc:description>Welcome to computer science in the 21st century. Did you ever wonder how computers represent DNA? How they can download a web page containing population data and analyze it to spot trends? Or how they can change the colors in a color photograph? If so, this book is for you. By the time you're done, you'll know how to do all of that and a lot more. And Python makes it easy and fun.    Computers are used in every part of science from ecology to particle physics. This introduction to computer science continually reinforces those ties by using real-world science problems as examples. Anyone who has taken a high school science class will be able to follow along as the book introduces the basics of programming, then goes on to show readers how to work with databases, download data from the web automatically, build graphical interfaces, and most importantly, how to think like a professional programmer.    Topics covered include:    Basic elements of programming from arithmetic to loops and if statements.    Using functions and modules to organize programs.    Using lists, sets, and dictionaries to organize data.    Designing algorithms systematically.    Debugging things when they go wrong.    Creating and querying databases.    Building graphical interfaces to make programs easier to use.    Object-oriented programming and programming patterns.</dc:description>
+        <dc:publisher>Pragmatic Bookshelf</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781934356272</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">wqSfOQAACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <meta content="{&quot;Jennifer Campbell&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-03-07T10:03:10.094605+00:00" name="calibre:timestamp"/>
+        <meta content="Practical Programming: An Introduction to Computer Science Using Python" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Practical Programming_ An Introduction to Computer Science Using Python - Jennifer Campbell.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

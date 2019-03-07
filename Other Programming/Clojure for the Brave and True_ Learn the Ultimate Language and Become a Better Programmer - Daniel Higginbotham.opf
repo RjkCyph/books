@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b9efca57-3e8e-4b46-8820-f311e0a15b79</dc:identifier>
+        <dc:title>Clojure for the Brave and True: Learn the Ultimate Language and Become a Better Programmer</dc:title>
+        <dc:creator opf:file-as="Higginbotham, Daniel" opf:role="aut">Daniel Higginbotham</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-10-15T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;For weeks, months—nay!—from the very moment you were born, you’ve felt it calling to you. At long last you’ll be united with the programming language you’ve been longing for: Clojure!  &lt;/p&gt;
+&lt;p&gt;As a Lisp-style functional programming language, Clojure lets you write robust and elegant code, and because it runs on the Java Virtual Machine, you can take advantage of the vast Java ecosystem. Clojure for the Brave and True offers a "dessert-first" approach: you’ll start playing with real programs immediately, as you steadily acclimate to the abstract but powerful features of Lisp and functional programming. Inside you’ll find an offbeat, practical guide to Clojure, filled with quirky sample programs that catch cheese thieves and track glittery vampires.  &lt;/p&gt;
+&lt;p&gt;Learn how to:&lt;br /&gt;
+–Wield Clojure’s core functions&lt;br /&gt;
+–Use Emacs for Clojure development&lt;br /&gt;
+–Write macros to modify Clojure itself&lt;br /&gt;
+–Use Clojure’s tools to simplify concurrency and parallel programming  &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Clojure for the Brave and True&lt;/em&gt; assumes no prior experience with Clojure, the Java Virtual Machine, or functional programming. Are you ready, brave reader, to meet your true destiny? Grab your best pair of parentheses—you’re about to embark on an epic journey into the world of Clojure!&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Daniel Higginbotham&lt;/strong&gt; has been a professional programmer for eleven years, half of that at McKinsey &amp;amp; Company, where he used Clojure to build mobile and web applications. He has also contributed to the curriculum for ClojureBridge, an organization that offers free, beginner-friendly Clojure workshops for women. Daniel blogs about programming and life at http://www.flyingmachinestudios.com, and can be found on Twitter, @nonrecursive. He lives in Durham, North Carolina, with his wife and four cats. &lt;/p&gt;</dc:description>
+        <dc:publisher>No Starch Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">mQLPCgAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B015P7F92G</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781593275914</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Lisp</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Java</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <meta content="{&quot;Daniel Higginbotham&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2019-02-27T11:19:14+00:00" name="calibre:timestamp"/>
+        <meta content="Clojure for the Brave and True: Learn the Ultimate Language and Become a Better Programmer" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Clojure for the Brave and True_ Learn the Ultimate Language and Become a Better Programmer - Daniel Higginbotham.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

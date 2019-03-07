@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">137</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">49103bc4-34f8-4dc7-85f5-8767f4a6de27</dc:identifier>
+        <dc:title>Deep Learning With PyTorch: A Practical Approach to Building Neural Network Models Using PyTorch</dc:title>
+        <dc:creator opf:file-as="Subramanian, Vishnu" opf:role="aut">Vishnu Subramanian</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-02-23T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;strong&gt;Build neural network models in text, vision and advanced analytics using PyTorch&lt;/strong&gt;&lt;/p&gt;
+&lt;h4&gt;Key Features&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Learn PyTorch for implementing cutting-edge deep learning algorithms.&lt;/li&gt;
+&lt;li&gt;Train your neural networks for higher speed and flexibility and learn how to implement them in various scenarios;&lt;/li&gt;
+&lt;li&gt;Cover various advanced neural network architecture such as ResNet, Inception, DenseNet and more with practical examples;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Book Description&lt;/h4&gt;
+&lt;p&gt;Deep learning powers the most intelligent systems in the world, such as Google Voice, Siri, and Alexa. Advancements in powerful hardware, such as GPUs, software frameworks such as PyTorch, Keras, Tensorflow, and CNTK along with the availability of big data have made it easier to implement solutions to problems in the areas of text, vision, and advanced analytics.&lt;/p&gt;
+&lt;p&gt;This book will get you up and running with one of the most cutting-edge deep learning libraries―PyTorch. PyTorch is grabbing the attention of deep learning researchers and data science professionals due to its accessibility, efficiency and being more native to Python way of development. You'll start off by installing PyTorch, then quickly move on to learn various fundamental blocks that power modern deep learning. You will also learn how to use CNN, RNN, LSTM and other networks to solve real-world problems. This book explains the concepts of various state-of-the-art deep learning architectures, such as ResNet, DenseNet, Inception, and Seq2Seq, without diving deep into the math behind them. You will also learn about GPU computing during the course of the book. You will see how to train a model with PyTorch and dive into complex neural networks such as generative networks for producing text and images. &lt;/p&gt;
+&lt;p&gt;By the end of the book, you'll be able to implement deep learning applications in PyTorch with ease.&lt;/p&gt;
+&lt;h4&gt;What you will learn&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Use PyTorch for GPU-accelerated tensor computations&lt;/li&gt;
+&lt;li&gt;Build custom datasets and data loaders for images and test the models using torchvision and torchtext&lt;/li&gt;
+&lt;li&gt;Build an image classifier by implementing CNN architectures using PyTorch&lt;/li&gt;
+&lt;li&gt;Build systems that do text classification and language modeling using RNN, LSTM, and GRU&lt;/li&gt;
+&lt;li&gt;Learn advanced CNN architectures such as ResNet, Inception, Densenet, and learn how to use them for transfer learning&lt;/li&gt;
+&lt;li&gt;Learn how to mix multiple models for a powerful ensemble model&lt;/li&gt;
+&lt;li&gt;Generate new images using GAN's and generate artistic images using style transfer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Who This Book Is For&lt;/h4&gt;
+&lt;p&gt;This book is for machine learning engineers, data analysts, data scientists interested in deep learning and are looking to explore implementing advanced algorithms in PyTorch. Some knowledge of machine learning is helpful but not a mandatory need. Working knowledge of Python programming is expected.&lt;/p&gt;
+&lt;h4&gt;Table of Contents&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Getting Started with Pytorch for Deep Learning&lt;/li&gt;
+&lt;li&gt;Mathematical building blocks of Neural Networks&lt;/li&gt;
+&lt;li&gt;Getting Started with Neural Networks&lt;/li&gt;
+&lt;li&gt;Fundamentals of Machine Learning&lt;/li&gt;
+&lt;li&gt;Deep Learning for Computer Vision&lt;/li&gt;
+&lt;li&gt;Natural Language Processing for PyTorch&lt;/li&gt;
+&lt;li&gt;Advanced neural network architectures&lt;/li&gt;
+&lt;li&gt;Generative networks&lt;/li&gt;
+&lt;li&gt;Conclusion&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;**&lt;/p&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781788624336</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1788624335</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Vishnu Subramanian&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2019-03-07T10:01:52.234950+00:00" name="calibre:timestamp"/>
+        <meta content="Deep Learning With PyTorch: A Practical Approach to Building Neural Network Models Using PyTorch" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Deep Learning With PyTorch_ A Practical Approach to Building Neural Network Models Using PyTorch - Vishnu Subramanian.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

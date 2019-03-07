@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">165</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5d27199c-5dfb-485c-924a-517ba7c7854b</dc:identifier>
+        <dc:title>C++ Hacker's Guide</dc:title>
+        <dc:creator opf:file-as="Oualline, Steve" opf:role="aut">Steve Oualline</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-01-15T10:10:29.590680+00:00</dc:date>
+        <dc:description>&lt;p&gt;An experienced programmer accumulates a set of tools, tricks, and techniques to make his or her programs better. &lt;strong&gt;C++ Hacker's Guide&lt;/strong&gt; collects more than 120 of the best C++ veteran secrets and puts them in one accessible place. The techniques presented have all been used in actual programs, and more importantly, have made actual programs better. Full of real world, highly useful information, this book offers a career's worth of knowledge to round out any C++ programmer's repertoire. Topics include strategies to make code more memory safe, debuggable, efficient, and maintainable.&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;</dc:description>
+        <dc:publisher>No Starch Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781593271688</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">SK_qkQEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1593271689</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>C</dc:subject>
+        <dc:subject>Security</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Online Safety &amp; Privacy</dc:subject>
+        <meta content="{&quot;Steve Oualline&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2019-03-07T10:02:38.174726+00:00" name="calibre:timestamp"/>
+        <meta content="C++ Hacker's Guide" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="C__ Hacker's Guide - Steve Oualline.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">207</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ccf21438-4334-4e93-b45a-a62847bc666a</dc:identifier>
+        <dc:title>How to Earn $10,000 While Learning to Code</dc:title>
+        <dc:creator opf:file-as="Percival, Rob" opf:role="aut">Rob Percival</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Interested in making money developing websites and apps but not sure where to start?  &lt;/p&gt;
+&lt;p&gt;This book is a companion to The Complete Web Developer Course (www.completewebdevelopercourse.com) - use them together and you'll be developing your own websites and apps, and making money from them, in weeks.  &lt;/p&gt;
+&lt;p&gt;This book is a step-by-step guide to transforming your life, learning new skills, or just building some income on the side.   &lt;/p&gt;
+&lt;p&gt;8 chapters take you through different ways of making money with web development, including concrete exercises and tasks to move you in the right direction.&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;</dc:description>
+        <dc:identifier opf:scheme="AMAZON">B00KG5D5MO</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Rob Percival&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="9" name="calibre:rating"/>
+        <meta content="2019-03-07T10:03:49.924020+00:00" name="calibre:timestamp"/>
+        <meta content="How to Earn $10,000 While Learning to Code" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="How to Earn $10,000 While Learning to Code - Rob Percival.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

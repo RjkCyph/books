@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">142</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">43df303e-c275-4e71-a55c-ef691dfb9dae</dc:identifier>
+        <dc:title>Colloquial Norwegian: A Complete Language Course (Colloquial Series)</dc:title>
+        <dc:creator opf:file-as="Bratveit, Kari &amp; Jones, W Glyn &amp; Gade, Kirsten" opf:role="aut">Kari Bratveit</dc:creator>
+        <dc:creator opf:file-as="Bratveit, Kari &amp; Jones, W Glyn &amp; Gade, Kirsten" opf:role="aut">W Glyn Jones</dc:creator>
+        <dc:creator opf:file-as="Bratveit, Kari &amp; Jones, W Glyn &amp; Gade, Kirsten" opf:role="aut">Kirsten Gade</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-07-30T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Colloquial Norwegian: The Complete Course for Beginners has been carefully developed by an experienced teacher to provide a step-by-step course to Norwegian as it is written and spoken today. &lt;/p&gt;
+&lt;p&gt;Combining a clear, practical and accessible style with a methodical and thorough treatment of the language, it equips learners with the essential skills needed to communicate confidently and effectively in Norwegian in a broad range of situations. No prior knowledge of the language is required. Colloquial Norwegian is exceptional; each unit presents a wealth of grammatical points that are reinforced with a wide range of exercises for regular practice. A full answer key, a grammar summary, bilingual glossaries and English translations of dialogues can be found at the back as well as useful vocabulary lists throughout. &lt;/p&gt;
+&lt;p&gt;Key features include:&lt;/p&gt;
+&lt;p&gt;A clear, user-friendly format designed to help learners progressively build up their speaking, listening, reading and writing skills &lt;/p&gt;
+&lt;p&gt;Jargon-free, succinct and clearly structured explanations of grammar &lt;/p&gt;
+&lt;p&gt;An extensive range of focused and dynamic supportive exercises &lt;/p&gt;
+&lt;p&gt;Realistic and entertaining dialogues covering a broad variety of narrative situations &lt;/p&gt;
+&lt;p&gt;Helpful cultural points about life in Norway&lt;/p&gt;
+&lt;p&gt;An overview of the sounds of Norwegian&lt;/p&gt;
+&lt;p&gt;Balanced, comprehensive and rewarding, Colloquial Norwegian is an indispensable resource both for independent learners and students taking courses in Norwegian. &lt;/p&gt;
+&lt;p&gt;Audio material to accompany the course is available to download free in MP3 format from www.routledge.com/cw/colloquials. Recorded by native speakers, the audio material features the dialogues and texts from the book and will help develop your listening and pronunciation skills. &lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;</dc:description>
+        <dc:publisher>Routledge</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781138949768</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1138949760</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Arts</dc:subject>
+        <dc:subject>Language &amp; Literature</dc:subject>
+        <meta content="{&quot;Kari Bratveit&quot;: &quot;&quot;, &quot;W Glyn Jones&quot;: &quot;&quot;, &quot;Kirsten Gade&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2019-03-07T10:01:59.169099+00:00" name="calibre:timestamp"/>
+        <meta content="Colloquial Norwegian: A Complete Language Course (Colloquial Series)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Colloquial Norwegian_ A Complete Language Course (Colloquial Series) - Kari Bratveit &amp; W Glyn Jones &amp; Kirsten Gade.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">162</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">78e8e67d-efe3-40bb-b025-40c21272d900</dc:identifier>
+        <dc:title>Python Data Science Handbook: Essential Tools for Working With Data</dc:title>
+        <dc:creator opf:file-as="Vanderplas, Jake" opf:role="aut">Jake Vanderplas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-11-21T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;For many researchers, Python is a first-class tool mainly because of its libraries for storing, manipulating, and gaining insight from data. Several resources exist for individual pieces of this data science stack, but only with the Python Data Science Handbook do you get them all—IPython, NumPy, Pandas, Matplotlib, Scikit-Learn, and other related tools.&lt;/p&gt;
+&lt;p&gt;Working scientists and data crunchers familiar with reading and writing Python code will find this comprehensive desk reference ideal for tackling day-to-day issues: manipulating, transforming, and cleaning data; visualizing different types of data; and using data to build statistical or machine learning models. Quite simply, this is the must-have reference for scientific computing in Python.&lt;/p&gt;
+&lt;p&gt;With this handbook, you’ll learn how to use:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;IPython and Jupyter:&lt;/strong&gt; provide computational environments for data scientists using Python&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;NumPy:&lt;/strong&gt; includes the &lt;em&gt;ndarray&lt;/em&gt; for efficient storage and manipulation of dense data arrays in Python&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pandas:&lt;/strong&gt; features the DataFrame for efficient storage and manipulation of labeled/columnar data in Python&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Matplotlib:&lt;/strong&gt; includes capabilities for a flexible range of data visualizations in Python&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Scikit-Learn:&lt;/strong&gt; for efficient and clean Python implementations of the most important and established machine learning algorithms&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Jake VanderPlas is a long-time user and developer of the Python scientific stack. He currently works as an interdisciplinary research director at the University of Washington, conducts his own astronomy research, and spends time advising and consulting with local scientists from a wide range of fields.&lt;/p&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781491912133</dc:identifier>
+        <dc:identifier opf:scheme="ASIN">B01N2JT3ST</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">6omNDQAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B01N2JT3ST</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Open Source</dc:subject>
+        <dc:subject>Data Modeling &amp; Design</dc:subject>
+        <dc:subject>Data Visualization</dc:subject>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Research &amp; Methodology</dc:subject>
+        <meta content="{&quot;Jake Vanderplas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="10" name="calibre:rating"/>
+        <meta content="2019-03-07T10:02:32.672114+00:00" name="calibre:timestamp"/>
+        <meta content="Python Data Science Handbook: Essential Tools for Working With Data" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Python Data Science Handbook_ Essential Tools for Working With Data - Jake Vanderplas.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

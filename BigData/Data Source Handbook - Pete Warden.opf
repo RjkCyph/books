@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">152</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">defb3776-f419-4986-8c91-a760bca1cbb6</dc:identifier>
+        <dc:title>Data Source Handbook</dc:title>
+        <dc:creator opf:file-as="Warden, Pete" opf:role="aut">Pete Warden</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-04T10:11:33.967051+00:00</dc:date>
+        <dc:description>If you're a developer looking to supplement your own data tools and services, this concise ebook covers the most useful sources of public data available today. You'll find useful information on APIs that offer broad coverage, tie their data to the outside world, and are either accessible online or feature downloadable bulk data. You'll also find code and helpful links.  This guide organizes APIs by the subjects they cover—such as websites, people, or places—so you can quickly locate the best resources for augmenting the data you handle in your own service. Categories include: Website tools such as WHOIS, bit.ly, and Compete Services that use email addresses as search terms, including Github Finding information from just a name, with APIs such as WhitePages Services, such as Klout, for locating people with Facebook and Twitter accounts Search APIs, including BOSS and Wikipedia Geographical data sources, including SimpleGeo and U.S. Census Company information APIs, such as CrunchBase and ZoomInfo APIs that list IP addresses, such as MaxMind Services that list books, films, music, and products</dc:description>
+        <dc:publisher>"O'Reilly Media, Inc."</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781449303143</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">yID8YesWTy8C</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Data Modeling &amp; Design</dc:subject>
+        <dc:subject>1449303145</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>ISBN-13: 9781449303143</dc:subject>
+        <meta content="{&quot;Pete Warden&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-03-07T10:02:15.063898+00:00" name="calibre:timestamp"/>
+        <meta content="Data Source Handbook" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Data Source Handbook - Pete Warden.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">175</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f30c8a42-b6ee-4015-8ba1-9156cf590716</dc:identifier>
+        <dc:title>Introduction to Machine Learning With Python: A Guide for Data Scientists</dc:title>
+        <dc:creator opf:file-as="Müller, Andreas C. &amp; C, Muller Andreas &amp; Guido, Sarah" opf:role="aut">Andreas C. Müller</dc:creator>
+        <dc:creator opf:file-as="Müller, Andreas C. &amp; C, Muller Andreas &amp; Guido, Sarah" opf:role="aut">Muller Andreas C</dc:creator>
+        <dc:creator opf:file-as="Müller, Andreas C. &amp; C, Muller Andreas &amp; Guido, Sarah" opf:role="aut">Sarah Guido</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-09-26T10:09:18.543031+00:00</dc:date>
+        <dc:description>Machine learning has become an integral part of many commercial applications and research projects, but this field is not exclusive to large companies with extensive research teams. If you use Python, even as a beginner, this book will teach you practical ways to build your own machine learning solutions. With all the data available today, machine learning applications are limited only by your imagination.You’ll learn the steps necessary to create a successful machine-learning application with Python and the scikit-learn library. Authors Andreas Müller and Sarah Guido focus on the practical aspects of using machine learning algorithms, rather than the math behind them. Familiarity with the NumPy and matplotlib libraries will help you get even more from this book.With this book, you’ll learn:Fundamental concepts and applications of machine learningAdvantages and shortcomings of widely used machine learning algorithmsHow to represent data processed by machine learning, including which data aspects to focus onAdvanced methods for model evaluation and parameter tuningThe concept of pipelines for chaining models and encapsulating your workflowMethods for working with text data, including text-specific processing techniquesSuggestions for improving your machine learning and data science skills</dc:description>
+        <dc:publisher>"O'Reilly Media, Inc."</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781449369903</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">1-4lDQAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <meta content="{&quot;Andreas C. Müller&quot;: &quot;&quot;, &quot;Muller Andreas C&quot;: &quot;&quot;, &quot;Sarah Guido&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-03-07T10:02:55.117530+00:00" name="calibre:timestamp"/>
+        <meta content="Introduction to Machine Learning With Python: A Guide for Data Scientists" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Introduction to Machine Learning With Python_ A Guide for Data Scientists - Andreas C. Muller &amp; Muller Andreas C &amp; Sarah Guido.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

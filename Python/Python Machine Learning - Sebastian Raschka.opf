@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">178</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9764457a-37e5-4753-a635-e2c4e10dd0f7</dc:identifier>
+        <dc:title>Python Machine Learning</dc:title>
+        <dc:creator opf:file-as="Raschka, Sebastian" opf:role="aut">Sebastian Raschka</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-23T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;strong&gt;Unlock deeper insights into Machine Leaning with this vital guide to cutting-edge predictive analytics&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;About This Book&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Leverage Python’s most powerful open-source libraries for deep learning, data wrangling, and data visualization&lt;/li&gt;
+&lt;li&gt;Learn effective strategies and best practices to improve and optimize machine learning systems and algorithms&lt;/li&gt;
+&lt;li&gt;Ask – and answer – tough questions of your data with robust statistical models, built for a range of datasets&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Who This Book Is For&lt;/h2&gt;
+&lt;p&gt;If you want to find out how to use Python to start answering critical questions of your data, pick up Python Machine Learning – whether you want to get started from scratch or want to extend your data science knowledge, this is an essential and unmissable resource.&lt;/p&gt;
+&lt;h2&gt;What You Will Learn&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Explore how to use different machine learning models to ask different questions of your data&lt;/li&gt;
+&lt;li&gt;Learn how to build neural networks using Keras and Theano&lt;/li&gt;
+&lt;li&gt;Find out how to write clean and elegant Python code that will optimize the strength of your algorithms&lt;/li&gt;
+&lt;li&gt;Discover how to embed your machine learning model in a web application for increased accessibility&lt;/li&gt;
+&lt;li&gt;Predict continuous target outcomes using regression analysis&lt;/li&gt;
+&lt;li&gt;Uncover hidden patterns and structures in data with clustering&lt;/li&gt;
+&lt;li&gt;Organize data using effective pre-processing techniques&lt;/li&gt;
+&lt;li&gt;Get to grips with sentiment analysis to delve deeper into textual and social media data&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;In Detail&lt;/h2&gt;
+&lt;p&gt;Machine learning and predictive analytics are transforming the way businesses and other organizations operate. Being able to understand trends and patterns in complex data is critical to success, becoming one of the key strategies for unlocking growth in a challenging contemporary marketplace. Python can help you deliver key insights into your data – its unique capabilities as a language let you build sophisticated algorithms and statistical models that can reveal new perspectives and answer key questions that are vital for success.&lt;/p&gt;
+&lt;p&gt;Python Machine Learning gives you access to the world of predictive analytics and demonstrates why Python is one of the world’s leading data science languages. If you want to ask better questions of data, or need to improve and extend the capabilities of your machine learning systems, this practical data science book is invaluable. Covering a wide range of powerful Python libraries, including scikit-learn, Theano, and Keras, and featuring guidance and tips on everything from sentiment analysis to neural networks, you’ll soon be able to answer some of the most important questions facing you and your organization.&lt;/p&gt;
+&lt;h2&gt;Style and approach&lt;/h2&gt;
+&lt;p&gt;Python Machine Learning connects the fundamental theoretical principles behind machine learning to their practical application in a way that focuses you on asking and answering the right questions. It walks you through the key elements of Python and its powerful machine learning libraries, while demonstrating how to get to grips with a range of statistical models.&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Sebastian Raschka&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sebastian Raschka is a PhD student at Michigan State University, who develops new computational methods in the field of computational biology. He has been ranked as the number one most influential data scientist on GitHub by Analytics Vidhya. He has a yearlong experience in Python programming and he has conducted several seminars on the practical applications of data science and machine learning. Talking and writing about data science, machine learning, and Python really motivated Sebastian to write this book in order to help people develop data-driven solutions without necessarily needing to have a machine learning background. He has also actively contributed to open source projects and methods that he implemented, which are now successfully used in machine learning competitions, such as Kaggle. In his free time, he works on models for sports predictions, and if he is not in front of the computer, he enjoys playing sports.&lt;/p&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781783555147</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">GOVOCwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B00YSILNL0</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Data Mining</dc:subject>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>Data Modeling &amp; Design</dc:subject>
+        <dc:subject>Neural Networks</dc:subject>
+        <dc:subject>Data Processing</dc:subject>
+        <dc:subject>Databases</dc:subject>
+        <dc:subject>Mathematical &amp; Statistical Software</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>www.it-ebooks.info</dc:subject>
+        <meta content="{&quot;Sebastian Raschka&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2019-03-07T10:03:00.326640+00:00" name="calibre:timestamp"/>
+        <meta content="Python Machine Learning" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Python Machine Learning - Sebastian Raschka.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

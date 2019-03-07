@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">160</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c1a24191-b0f9-4209-95a0-7ae155ab88ee</dc:identifier>
+        <dc:title>Elementary Cryptanalysis: A Mathematical Approach (Mathematical Association of America Textbooks)</dc:title>
+        <dc:creator opf:file-as="Sinkov, Abraham" opf:role="aut">Abraham Sinkov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-08-15T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Most people, acquainted with cryptology either through sensational cloak and dagger stories or through newspaper cryptograms, are not aware that many aspects of this art may be treated systematically, by means of some elementary mathematical concepts and methods. In this introduction, Professor Sinkov explains some of the fundamental techniques at the basis of cryptanalytic endeavor from which much more sophisticated techniques have evolved, especially since the advent of computers. The mathematical topics relevant in these discussions include modular arithmetic, a little number theory, some linear algebra of two dimensions with matrices, some combinatorics, and a little statistics. Also included are programs in BASIC developed by Paul Irwin for use in his course based on this book.&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;</dc:description>
+        <dc:publisher>The Mathematical Association of America</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780883856222</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0883856220</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Abraham Sinkov&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2019-03-07T10:02:28.132156+00:00" name="calibre:timestamp"/>
+        <meta content="Elementary Cryptanalysis: A Mathematical Approach (Mathematical Association of America Textbooks)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Elementary Cryptanalysis_ A Mathematical Approach (Mathematical Association of America Textbooks) - Abraham Sinkov.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

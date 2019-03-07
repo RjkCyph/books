@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">166</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">589f7341-45f9-402e-8358-d07d8e10c4d8</dc:identifier>
+        <dc:title>Expert Python Programming</dc:title>
+        <dc:creator opf:file-as="Jaworski, Michal &amp; Ziade, Tarek" opf:role="aut">Michal Jaworski</dc:creator>
+        <dc:creator opf:file-as="Jaworski, Michal &amp; Ziade, Tarek" opf:role="aut">Tarek Ziade</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-05-20T10:10:36.194881+00:00</dc:date>
+        <dc:description>Become an ace Python programmer by learning best coding practices and advance-level concepts with Python 3.5About This BookBased on the latest stable version of Python (version 3.5)Creating well manageable code that will run in various environments with different sets of dependenciesPacked with advanced concepts and best practices to write efficient Python codeWho This Book Is ForThe book would appeal to web developers and Python programmers who want to start using version 3.5 and write code efficiently. Basic knowledge of Python programming is expected.What You Will LearnConventions and best practices that are widely adopted in the python communityPackage python code effectively for community and production useEasy and lightweight ways to automate code deployment on remote systemsImprove your code's quality, reliability, and performanceWrite concurrent code in pythonExtend python with code written in different languagesIn DetailPython is a dynamic programming language, used in a wide range of domains by programmers who find it simple, yet powerful. Even if you find writing Python code easy, writing code that is efficient and easy to maintain and reuse is a challenge.The focus of the book is to familiarize you with common conventions, best practices, useful tools and standards used by python professionals on a daily basis when working with code.You will begin with knowing new features in Python 3.5 and quick tricks for improving productivity. Next, you will learn advanced and useful python syntax elements brought to this new version. Using advanced object-oriented concepts and mechanisms available in python, you will learn different approaches to implement metaprogramming. You will learn to choose good names, write packages, and create standalone executables easily.You will also be using some powerful tools such as buildout and vitualenv to release and deploy the code on remote servers for production use. Moving on, you will learn to effectively create Python extensions with C, C++, cython, and pyrex. The important factors while writing code such as code management tools, writing clear documentation, and test-driven development are also covered.You will now dive deeper to make your code efficient with general rules of optimization, strategies for finding bottlenecks, and selected tools for application optimization.By the end of the book, you will be an expert in writing efficient and maintainable code.Style and approach An easy-to-follow guide that covers industry followed best practices in Python programming</dc:description>
+        <dc:publisher>Packt Publishing Ltd</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781785884399</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">_tBtDQAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>www.it-ebooks.info</dc:subject>
+        <dc:subject>Web Programming</dc:subject>
+        <dc:subject>Web</dc:subject>
+        <meta content="{&quot;Tarek Ziade&quot;: &quot;&quot;, &quot;Michal Jaworski&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-03-07T10:02:39.749386+00:00" name="calibre:timestamp"/>
+        <meta content="Expert Python Programming" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Expert Python Programming - Michal Jaworski &amp; Tarek Ziade.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

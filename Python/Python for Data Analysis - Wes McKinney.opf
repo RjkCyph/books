@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">204</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aa55b392-68b3-4942-9ecc-4ef811ea83c1</dc:identifier>
+        <dc:title>Python for Data Analysis</dc:title>
+        <dc:creator opf:file-as="McKinney, Wes" opf:role="aut">Wes McKinney</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-03-15T10:04:59.505791+00:00</dc:date>
+        <dc:description>Python for Data Analysis is concerned with the nuts and bolts of manipulating, processing, cleaning, and crunching data in Python. It is also a practical, modern introduction to scientific computing in Python, tailored for data-intensive applications. This is a book about the parts of the Python language and libraries you’ll need to effectively solve a broad set of data analysis problems. This book is not an exposition on analytical methods using Python as the implementation language. Written by Wes McKinney, the main author of the pandas library, this hands-on book is packed with practical cases studies. It’s ideal for analysts new to Python and for Python programmers new to scientific computing.  Use the IPython interactive shell as your primary development environment Learn basic and advanced NumPy (Numerical Python) features Get started with data analysis tools in the pandas library Use high-performance tools to load, clean, transform, merge, and reshape data Create scatter plots and static or interactive visualizations with matplotlib Apply the pandas groupby facility to slice, dice, and summarize datasets Measure data by points in time, whether it’s specific instances, fixed periods, or intervals Learn how to solve problems in web analytics, social sciences, finance, and economics, through detailed examples</dc:description>
+        <dc:publisher>"O'Reilly Media, Inc."</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781449319793</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">UWlo-c4WEpAC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Data Processing</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <meta content="{&quot;Wes McKinney&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-03-07T10:03:44.581771+00:00" name="calibre:timestamp"/>
+        <meta content="Python for Data Analysis" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Python for Data Analysis - Wes McKinney.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

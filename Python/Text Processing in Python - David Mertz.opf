@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">200</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">737b328b-4dc6-49b5-b68c-5ead767a3bfb</dc:identifier>
+        <dc:title>Text Processing in Python</dc:title>
+        <dc:creator opf:file-as="Mertz, David" opf:role="aut">David Mertz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-06-12T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Text Processing with Python, written by Python authority David Mertz, teaches programmers how to accomplish numerous text processing tasks using the Python language. Filled with concrete examples, this book provides effective solutions to specific text processing problems and practical strategies for dealing with all types of text processing challenges. It provides the answers to questions such as: What is the best way to convert from binary to ASCII?; How do I work with full text indexing?; How do I find a URL or an email address in text?; What are the different levels of pattern matching?; How do I process a report with a concrete state machine?; How do I parse, create and manipulate HTML documents?; How do I handle a lossless and lossy compression?; And what is the most efficient way to find codepoints in Unicode?&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;</dc:description>
+        <dc:publisher>Addison-Wesley Professional</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780321112545</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0321112547</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;David Mertz&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2019-03-07T10:03:38.114417+00:00" name="calibre:timestamp"/>
+        <meta content="Text Processing in Python" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Text Processing in Python - David Mertz.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

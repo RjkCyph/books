@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">202</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">60223d9e-aefd-4f2b-904a-f848ca453398</dc:identifier>
+        <dc:title>Econometrics for Dummies</dc:title>
+        <dc:creator opf:file-as="Pedace, Roberto" opf:role="aut">Roberto Pedace</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-06-05T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;strong&gt;Score your highest in econometrics? Easy.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Econometrics can prove challenging for many students unfamiliar with the terms and concepts discussed in a typical econometrics course. &lt;em&gt;Econometrics For Dummies &lt;/em&gt;eliminates that confusion with easy-to-understand explanations of important topics in the study of economics.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Econometrics For Dummies &lt;/em&gt;breaks down this complex subject and provides you with an easy-to-follow course supplement to further refine your understanding of how econometrics works and how it can be applied in real-world situations.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;An excellent resource for anyone participating in a college or graduate level econometrics course&lt;/li&gt;
+&lt;li&gt;Provides you with an easy-to-follow introduction to the techniques and applications of econometrics&lt;/li&gt;
+&lt;li&gt;Helps you score high on exam day&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you're seeking a degree in economics and looking for a plain-English guide to this often-intimidating course, &lt;em&gt;Econometrics For Dummies&lt;/em&gt; has you covered.&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p&gt;Learn to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Grasp the techniques and applications of econometrics&lt;/li&gt;
+&lt;li&gt;Make sense of complex concepts and material&lt;/li&gt;
+&lt;li&gt;Use specialized software to apply your acquired econometrics skills&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Understand econometric theory and apply econometric techniques&lt;/p&gt;
+&lt;p&gt;Econometrics can prove challenging for many students. Thankfully, &lt;em&gt;Econometrics For Dummies&lt;/em&gt; eliminates that confusion with easy-to-understand explanations of important topics in the study of econometrics. This hands-on, friendly guide breaks down the complex subject of econometrics and provides you with an easy-to-follow course supplement to further refine your understanding of how econometrics works and how it can be applied in real-world situations.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The nuts and bolts — get familiar with the various characteristics of the classical linear regression model (CLRM), which is the foundation of traditional econometric analysis&lt;/li&gt;
+&lt;li&gt;Form and function — discover how econometric analysis is able to accommodate a considerable amount of flexibility with different mathematical functions and types of data&lt;/li&gt;
+&lt;li&gt;Don't assume — find out how econometricians use some bizarre titles to identify problems that violate CLRM assumptions&lt;/li&gt;
+&lt;li&gt;Be discrete — get to know how discrete and restricted dependent variables can create problems for traditional regression analysis and discover the techniques econometricians have developed to modify traditional regression analysis&lt;/li&gt;
+&lt;li&gt;Make special note — delve deeper into a few specialized areas of econometrics, namely time-series analysis, pooled cross sections, and panel econometrics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Open the book and find:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Plain-English explanations of complex material&lt;/li&gt;
+&lt;li&gt;Computer outputs from STATA for many of the examples&lt;/li&gt;
+&lt;li&gt;The economist's approach to statistical analysis&lt;/li&gt;
+&lt;li&gt;The various characteristics of the classical linear regression model&lt;/li&gt;
+&lt;li&gt;The most common problems encountered when performing regression analysis&lt;/li&gt;
+&lt;li&gt;Lots of helpful figures&lt;/li&gt;
+&lt;li&gt;Common mistakes in applied econometrics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Roberto Pedace&lt;/strong&gt;, PhD, is an associate professor in the Department of Economics at Scripps College. His published work has appeared in &lt;em&gt;Economic Inquiry, Industrial Relations,&lt;/em&gt; the &lt;em&gt;Southern Economic Journal&lt;/em&gt;, &lt;em&gt;Contemporary Economic Policy&lt;/em&gt;, the &lt;em&gt;Journal of Sports Economics&lt;/em&gt;, and other outlets.&lt;/p&gt;</dc:description>
+        <dc:publisher>For Dummies</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781118533840</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">RbRYBQAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B00D8SSN32</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Econometrics</dc:subject>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>Political Economy</dc:subject>
+        <meta content="{&quot;Roberto Pedace&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2019-03-07T10:03:41.514749+00:00" name="calibre:timestamp"/>
+        <meta content="Econometrics for Dummies" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Econometrics for Dummies - Roberto Pedace.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

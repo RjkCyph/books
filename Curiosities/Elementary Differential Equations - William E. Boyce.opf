@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">147</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0bf7d277-449c-4803-a8f3-86ded6ee320d</dc:identifier>
+        <dc:title>Elementary Differential Equations</dc:title>
+        <dc:creator opf:file-as="Boyce, William E." opf:role="aut">William E. Boyce</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-02T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;Elementary Differential Equations, 10th Edition&lt;/em&gt;&lt;/strong&gt; is written from the viewpoint of the applied mathematician, whose interest in differential equations may sometimes be quite theoretical and sometimes intensely practical. The authors have sought to combine a sound and accurate exposition of the elementary theory of differential equations with considerable material on methods of solution, analysis, and approximation that have proved useful in a wide variety of applications. While the general structure of the book remains unchanged, some notable changes have been made to improve the clarity and readability of basic material about differential equations and their applications. In addition to expanded explanations, the 10th edition includes new problems, updated figures and examples to help motivate students.&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;</dc:description>
+        <dc:publisher>Wiley</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780470458327</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0470458321</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;William E. Boyce&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2019-03-07T10:02:07.070217+00:00" name="calibre:timestamp"/>
+        <meta content="Elementary Differential Equations" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Elementary Differential Equations - William E. Boyce.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

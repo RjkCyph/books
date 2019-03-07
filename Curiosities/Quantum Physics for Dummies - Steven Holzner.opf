@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">163</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e2e7bb7b-7eb5-4d20-af21-be378ada773e</dc:identifier>
+        <dc:title>Quantum Physics for Dummies</dc:title>
+        <dc:creator opf:file-as="Holzner, Steven" opf:role="aut">Steven Holzner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-11-05T12:19:07+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;em&gt;Quantum Physics For Dummies,&lt;/em&gt; Revised Edition helps make quantum physics understandable and accessible. From what quantum physics can do for the world to understanding hydrogen atoms, readers will get complete coverage of the subject, along with numerous examples to help them tackle the tough equations. Compatible with classroom text books and courses, &lt;em&gt;Quantum Physics For Dummies,&lt;/em&gt; Revised Edition lets students study at their own paces and helps them prepare for graduate or professional exams. Coverage includes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The Schrodinger Equation and its Applications&lt;/li&gt;
+&lt;li&gt;The Foundations of Quantum Physics&lt;/li&gt;
+&lt;li&gt;Vector Notation&lt;/li&gt;
+&lt;li&gt;Spin&lt;/li&gt;
+&lt;li&gt;Scattering Theory, Angular Momentum, and more&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Your plain-English guide to understanding and working with the micro world&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Quantum physics — also called quantum mechanics or quantum field theory — can be daunting for even the most dedicated student or enthusiast of science, math, or physics. This friendly, concise guide makes this challenging subject understandable and accessible, from atoms to particles to gases and beyond. Plus, it's packed with fully explained examples to help you tackle the tricky equations like a pro!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Compatible with any classroom course — study at your own pace and prepare for graduate or professional exams&lt;/li&gt;
+&lt;li&gt;Your journey begins here — understand what quantum physics is and what kinds of problems it can solve&lt;/li&gt;
+&lt;li&gt;Know the basic math — from state vectors to quantum matrix manipulations, get the foundation you need to proceed&lt;/li&gt;
+&lt;li&gt;Put quantum physics to work — make sense of Schrödinger's equation and handle particles bound in square wells and harmonic oscillators&lt;/li&gt;
+&lt;li&gt;Solve problems in three dimensions — use the full operators to handle wave functions and eigenvectors to find the natural wave functions of a system&lt;/li&gt;
+&lt;li&gt;Discover the latest research — learn the cutting-edge quantum physics theories that aim to explain the universe itself&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Steven Holzner&lt;/strong&gt; is an award-winning author of technical and science books (like &lt;em&gt;Physics For Dummies&lt;/em&gt; and &lt;em&gt;Differential Equations For Dummies&lt;/em&gt;). He graduated from MIT and did his PhD in physics at Cornell University, where he was on the teaching faculty for 10 years. He’s also been on the faculty of MIT. Steve also teaches corporate groups around the country.&lt;/p&gt;</dc:description>
+        <dc:publisher>For</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B00BMWO3WQ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>http://archive.org/details/QuantumPhysicsForDummiesByStevenHolznerBooks.dezox.com</dc:subject>
+        <meta content="{&quot;Steven Holzner&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2019-03-07T10:02:34.262037+00:00" name="calibre:timestamp"/>
+        <meta content="Quantum Physics for Dummies" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Quantum Physics for Dummies - Steven Holzner.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">197</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">259a0a35-2b9e-4e29-9d94-39400bb64a90</dc:identifier>
+        <dc:title>Apache Hadoop Cookbook</dc:title>
+        <dc:creator opf:file-as="Jhajj, Raman" opf:role="aut">Raman Jhajj</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-05-12T21:45:12+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Raman Jhajj&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-03-07T10:03:32.888997+00:00" name="calibre:timestamp"/>
+        <meta content="Apache Hadoop Cookbook" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Apache Hadoop Cookbook - Raman Jhajj.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

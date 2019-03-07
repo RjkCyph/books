@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">161</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4d28b17d-bb9a-4f15-898e-74a9b50403f9</dc:identifier>
+        <dc:title>Machine Learning With Spark - Second Edition</dc:title>
+        <dc:creator opf:file-as="Ghotra, Manpreet Singh" opf:role="aut">Manpreet Singh Ghotra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-04-28T00:00:00+00:00</dc:date>
+        <dc:description>&lt;h4&gt;Key Features&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Get to the grips with the latest version of Apache Spark&lt;/li&gt;
+&lt;li&gt;Utilize Spark's machine learning library to implement predictive analytics&lt;/li&gt;
+&lt;li&gt;Leverage Spark’s powerful tools to load, analyze, clean, and transform your data&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Book Description&lt;/h4&gt;
+&lt;p&gt;This book will teach you about popular machine learning algorithms and their implementation. You will learn how various machine learning concepts are implemented in the context of Spark ML. You will start by installing Spark in a single and multinode cluster. Next you'll see how to execute Scala and Python based programs for Spark ML. Then we will take a few datasets and go deeper into clustering, classification, and regression. Toward the end, we will also cover text processing using Spark ML.&lt;/p&gt;
+&lt;p&gt;Once you have learned the concepts, they can be applied to implement algorithms in either green-field implementations or to migrate existing systems to this new platform. You can migrate from Mahout or Scikit to use Spark ML.&lt;/p&gt;
+&lt;p&gt;By the end of this book, you will acquire the skills to leverage Spark's features to create your own scalable machine learning applications and power a modern data-driven business.&lt;/p&gt;
+&lt;h4&gt;What you will learn&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Get hands-on with the latest version of Spark ML&lt;/li&gt;
+&lt;li&gt;Create your first Spark program with Scala and Python&lt;/li&gt;
+&lt;li&gt;Set up and configure a development environment for Spark on your own computer, as well as on Amazon EC2&lt;/li&gt;
+&lt;li&gt;Access public machine learning datasets and use Spark to load, process, clean, and transform data&lt;/li&gt;
+&lt;li&gt;Use Spark's machine learning library to implement programs by utilizing well-known machine learning models&lt;/li&gt;
+&lt;li&gt;Deal with large-scale text data, including feature extraction and using text data as input to your machine learning models&lt;/li&gt;
+&lt;li&gt;Write Spark functions to evaluate the performance of your machine learning models&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Rajdeep Dua&lt;/strong&gt; has over 16 years of experience in the Cloud and Big Data space. He worked in the advocacy team for Google's Big Data tools, BigQuery. He worked on the Greenplum big data platform at VMware in the developer evangelist team. He worked closely with a team on porting Spark to run on VMware's public and private cloud as a feature set. He has taught Spark and Big Data at some of the most prestigious tech schools in India.&lt;/p&gt;
+&lt;p&gt;Currently, he leads Developer Relations team at Salesforce India. He also works with the Data Pipeline team at Salesforce, which uses Hadoop and Spark to expose big data processing tools for developers.&lt;/p&gt;
+&lt;p&gt;He has published Big Data and Spark tutorials at http://www.clouddatalab.com. His LinkedIn profile is https://www.linkedin.com/in/rajdeepd. He has also presented BigQuery and Google App Engine at W3C conference in Hyderabad ( http://wwwconference.org/proceedings/www2011/schedule/www2011_Program.pdf). He led Developer Relations teams at Google, VMware, and Microsoft. He has spoken at hundreds of other conferences on the cloud. Some of the other references of his work can be seen at http://yourstory.com/2012/06/vmware-hires-rajdeep-dua-to-lead-the-developer-relations-in-india/ and http://dl.acm.org/citation.cfm?id=2624641.&lt;/p&gt;
+&lt;p&gt;His contributions to the open source community are related to Docker, Kubernetes, Android, OpenStack, and cloudfoundry. He has teaching experience in big data at IIIT Hyderabad, ISB, IIIT Delhi, and College of Engineering Pune.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Manpreet Singh Ghotra&lt;/strong&gt; has more than 12 years of experience in software development for both enterprise and big data software. He is currently working on developing machine learning platform using Apache Spark at Salesforce. He has worked on the Sentiment analyzer using the Apache stack and machine learning.&lt;/p&gt;
+&lt;p&gt;He was part of the machine learning group at one of the largest online retailers in the world working on transit time calculations using Apache Mahout, and the R Recommendation system using Apache Mahout.&lt;/p&gt;
+&lt;p&gt;With a Master's and postgraduate in machine learning, he has contributed and worked for the machine learning community.&lt;/p&gt;
+&lt;p&gt;His GitHub profile is https://github.com/badlogicmanpreet and his LinkedIn profile is https://in.linkedin.com/in/msghotra.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nick Pentreath&lt;/strong&gt; has a background in financial markets, machine learning, and software development. He has worked at Goldman Sachs Group, Inc.; as a research scientist at the online ad targeting start-up Cognitive Match Limited, London; and led the Data Science and Analytics team at Mxit, Africa's largest social network.&lt;/p&gt;
+&lt;p&gt;He is a cofounder of Graphflow, a big data and machine learning company focused on user-centric recommendations and customer intelligence. He is passionate about combining commercial focus with machine learning and cutting-edge technology to build intelligent systems that learn from data to add value to the bottom line.&lt;/p&gt;
+&lt;p&gt;Nick is a member of the Apache Spark Project Management Committee.&lt;/p&gt;</dc:description>
+        <dc:publisher>Packt Publishing</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B01DPR2ELW</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Manpreet Singh Ghotra&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="5" name="calibre:rating"/>
+        <meta content="2019-03-07T10:02:31.165621+00:00" name="calibre:timestamp"/>
+        <meta content="Machine Learning With Spark - Second Edition" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Machine Learning With Spark - Second Edition - Manpreet Singh Ghotra.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

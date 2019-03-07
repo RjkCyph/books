@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">190</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b4b6425c-755f-4b19-bc31-d2d5631c9a1d</dc:identifier>
+        <dc:title>Hands-On Data Structures and Algorithms With Python: Write Complex and Powerful Code Using the Latest Features of Python 3.7, 2nd Edition</dc:title>
+        <dc:creator opf:file-as="Agarwal, Basant &amp; Baka, Benjamin" opf:role="aut">Dr. Basant Agarwal</dc:creator>
+        <dc:creator opf:file-as="Agarwal, Basant &amp; Baka, Benjamin" opf:role="aut">Benjamin Baka</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-10-31T10:06:47.116267+00:00</dc:date>
+        <dc:description>Learn to implement complex data structures and algorithms using PythonKey FeaturesUnderstand the analysis and design of fundamental Python data structuresExplore advanced Python concepts such as Big O notation and dynamic programmingLearn functional and reactive implementations of traditional data structuresBook DescriptionData structures allow you to store and organize data efficiently. They are critical to any problem, provide a complete solution, and act like reusable code. Hands-On Data Structures and Algorithms with Python teaches you the essential Python data structures and the most common algorithms for building easy and maintainable applications.This book helps you to understand the power of linked lists, double linked lists, and circular linked lists. You will learn to create complex data structures, such as graphs, stacks, and queues. As you make your way through the chapters, you will explore the application of binary searches and binary search trees, along with learning common techniques and structures used in tasks such as preprocessing, modeling, and transforming data. In the concluding chapters, you will get to grips with organizing your code in a manageable, consistent, and extendable way. You will also study how to bubble sort, selection sort, insertion sort, and merge sort algorithms in detail.By the end of the book, you will have learned how to build components that are easy to understand, debug, and use in different applications. You will get insights into Python implementation of all the important and relevant algorithms.What you will learnUnderstand object representation, attribute binding, and data encapsulationGain a solid understanding of Python data structures using algorithmsStudy algorithms using examples with pictorial representationLearn complex algorithms through easy explanation, implementing PythonBuild sophisticated and efficient data applications in PythonUnderstand common programming algorithms used in Python data scienceWrite efficient and robust code in Python 3.7Who this book is forThis book is for developers who want to learn data structures and algorithms in Python to write complex and flexible programs. Basic Python programming knowledge is expected.</dc:description>
+        <dc:publisher>Packt Publishing Ltd</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781788991933</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">bOh1DwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Algorithms</dc:subject>
+        <meta content="{&quot;Dr. Basant Agarwal&quot;: &quot;&quot;, &quot;Benjamin Baka&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-03-07T10:03:21.278971+00:00" name="calibre:timestamp"/>
+        <meta content="Hands-On Data Structures and Algorithms With Python: Write Complex and Powerful Code Using the Latest Features of Python 3.7, 2nd Edition" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Hands-On Data Structures and Algorithms With Python_ Write Complex and Powerful Code Using the Latest Features of Python 3.7, 2nd Edition - Dr. Basant Agarwal &amp; Benjamin Baka.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

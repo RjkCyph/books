@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">153</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">32009f90-1379-422d-b4df-110e247bdacb</dc:identifier>
+        <dc:title>Your First Week With Bootstrap</dc:title>
+        <dc:creator opf:file-as="Bouchefra, Ahmed" opf:role="aut">Ahmed Bouchefra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-08-02T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Bootstrap stands as one of the most popular, open-source, front-end frameworks on the Web. Since its official release in 2011, it has undergone several changes, and it's now one of the most stable and responsive frameworks available. It's loved by web developers of all levels, as it gives them the capability to build a functional, attractive website design within minutes. A novice developer with just some basic knowledge of HTML and little CSS can easily get started with Bootstrap.&lt;/p&gt;
+&lt;p&gt;In this book we'll take you through Bootstrap basics, introduce you to its major features, and get you building your first Bootstrap sites. It contains:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Why I Love Bootstrap, and Why You Should Too&lt;/em&gt; by Syed Fazle Rahman&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Understanding Bootstrap: How it Works, and What's New&lt;/em&gt; by Syed Fazle Rahman&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Super Smart New Features to Win You Over&lt;/em&gt; by Maria Antonietta Perna&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Understanding Bootstrap Modals&lt;/em&gt; by Syed Fazle Rahman&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;A Deep Dive into the Bootstrap Form Component* by Ilya Bodrov-Krukowski&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Card Component: a Complete Introduction&lt;/em&gt; by Ahmed Bouchefra&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;How to Build a Responsive Type Scale with Bootstrap&lt;/em&gt; by Craig Watson&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;A Beginner's Guide to the Latest Bootstrap Utility Classes&lt;/em&gt; by Ilya Bodrov-Krukowski&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;3 Tips for Speeding Up Your Bootstrap Website&lt;/em&gt; by Maria Antonietta Perna&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Customizing Bootstrap jQuery Plugins&lt;/em&gt; by Maria Antonietta Perna&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;8 Tips for Improving Bootstrap Accessibility&lt;/em&gt; by Rhiana Heath&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Front-end Frameworks: Custom vs Ready-to-use Solutions&lt;/em&gt; by Ivaylo Gerchev&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This book is for all frontend developers who want to build responsive, mobile-first websites. You'll need to be familiar with HTML and CSS and have a reasonable level of understanding of JavaScript in order to follow the discussion. &lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;</dc:description>
+        <dc:publisher>SitePoint</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B07G8SQPMN</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Ahmed Bouchefra&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-03-07T10:02:16.705700+00:00" name="calibre:timestamp"/>
+        <meta content="Your First Week With Bootstrap" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Your First Week With Bootstrap - Ahmed Bouchefra.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

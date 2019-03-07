@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">144</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">48fa1094-29b8-4424-a8f2-a95f2c7cf922</dc:identifier>
+        <dc:title>Modern Cryptography: Applied Mathematics for Encryption and Information Security</dc:title>
+        <dc:creator opf:file-as="Easttom, Chuck" opf:role="aut">Chuck Easttom</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-10-09T10:13:02.142048+00:00</dc:date>
+        <dc:description>&lt;p&gt;A Practical Guide to Cryptography Principles and Security Practices Employ cryptography in real-world security situations using the hands-on information contained in this book. InfoSec expert Chuck Easttom lays out essential math skills and fully explains how to implement cryptographic algorithms in today's data protection landscape. Find out how to use ciphers and hashes, generate random keys, handle VPN and WiFi security, and encrypt VoIP, Email, and Web communications. &lt;em&gt;Modern Cryptography: Applied Mathematics for Encryption and Information Security&lt;/em&gt; covers cryptanalysis, steganography, and cryptographic backdoors.  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Learn the necessary number theory, discrete math, and algebra &lt;/li&gt;
+&lt;li&gt;Employ symmetric ciphers, including Feistel and substitution-permutation ciphers&lt;/li&gt;
+&lt;li&gt;Understand asymmetric cryptography algorithms&lt;/li&gt;
+&lt;li&gt;Design s-boxes that maximize output non-linearity&lt;/li&gt;
+&lt;li&gt;Deploy cryptographic hashes&lt;/li&gt;
+&lt;li&gt;Create cryptographic keys using pseudo random number generators&lt;/li&gt;
+&lt;li&gt;Encrypt Web traffic using SSL/TLS&lt;/li&gt;
+&lt;li&gt;Secure VPN, WiFi, and SSH communications&lt;/li&gt;
+&lt;li&gt;Work with cryptanalysis and steganography &lt;/li&gt;
+&lt;li&gt;Explore government, military, and intelligence agency applications&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This book is meant for those without a strong mathematics backgound.  Only just enough math to understand the algorithms is given. The idea of the book is to be a gateway to enter the world of cryptography.&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;</dc:description>
+        <dc:publisher>McGraw-Hill Education</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781259588099</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1259588084</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">FxKhCgAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B015YTKTZ2</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Networking</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta content="{&quot;Chuck Easttom&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2019-03-07T10:02:02.461549+00:00" name="calibre:timestamp"/>
+        <meta content="Modern Cryptography: Applied Mathematics for Encryption and Information Security" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Modern Cryptography_ Applied Mathematics for Encryption and Information Security - Chuck Easttom.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">143</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">72df6c47-3f9c-42e3-b551-62e600a2c3a0</dc:identifier>
+        <dc:title>Calculus</dc:title>
+        <dc:creator opf:file-as="Strang, Gilbert" opf:role="aut">Gilbert Strang</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-18T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Gilbert Strang's clear, direct style and detailed, intensive explanations make this textbook ideal as both a course companion and for self-study. Single variable and multivariable calculus are covered in depth. Key examples of the application of calculus to areas such as physics, engineering and economics are included in order to enhance students' understanding. New to the second edition is a chapter on the 'Highlights of calculus', which accompanies the popular video lectures by the author on MIT's OpenCourseWare. (These can be accessed from math.mit.edu/~gs).&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;</dc:description>
+        <dc:publisher>Wellesley-Cambridge Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780980232745</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0980232740</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Gilbert Strang&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2019-03-07T10:02:00.860957+00:00" name="calibre:timestamp"/>
+        <meta content="Calculus" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Calculus - Gilbert Strang.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

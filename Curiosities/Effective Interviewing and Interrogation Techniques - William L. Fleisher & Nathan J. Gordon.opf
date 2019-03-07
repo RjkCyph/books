@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">186</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0cafb75e-7df8-4850-96b3-28fe820e81c9</dc:identifier>
+        <dc:title>Effective Interviewing and Interrogation Techniques</dc:title>
+        <dc:creator opf:file-as="Fleisher, William L. &amp; Gordon, Nathan J." opf:role="aut">William L. Fleisher</dc:creator>
+        <dc:creator opf:file-as="Fleisher, William L. &amp; Gordon, Nathan J." opf:role="aut">Nathan J. Gordon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-01T10:07:54.410754+00:00</dc:date>
+        <dc:description>Effective Interviewing and Interrogation Techniques believably answers the question, How do you know when someone is lying? It also provides a guide for interviewing probable suspects and interrogating likely perpetrators on techniques and tradecraft. This book covers topics about searching for truth and revealing lies. It presents forensic assessments based on psychophysiology, and assessments on the basis of non-verbal behavior. The book also covers interview and interrogation preparation, as well as question formulation. It discusses the Morgan Interview Theme Technique or MITT, and the Forensic Assessment Interview or FAINT. The book addresses techniques for interviewing children and the mentally challenged, and offers information about pre-employment interviews. It also explains how to understand aggressive behavior and how to deal with angry people. The book concludes by presenting future methods for searching for the truth. Law enforcement and security professionals, as well as prosecutors, criminal defense lawyers, and civil litigators will find this book invaluable.The only book to address FAINT, IIT, and MITT in one sourceEnables the interviewer to obtain a confession that can stand up in courtIncludes an online workbook with practical exercises to assist the reader</dc:description>
+        <dc:publisher>Academic Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780123819871</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">JuMzKpFu93IC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Criminology</dc:subject>
+        <dc:subject>Law</dc:subject>
+        <dc:subject>Forensic Science</dc:subject>
+        <dc:subject>Political Science</dc:subject>
+        <dc:subject>Law Enforcement</dc:subject>
+        <meta content="{&quot;Nathan J. Gordon&quot;: &quot;&quot;, &quot;William L. Fleisher&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-03-07T10:03:13.651776+00:00" name="calibre:timestamp"/>
+        <meta content="Effective Interviewing and Interrogation Techniques" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Effective Interviewing and Interrogation Techniques - William L. Fleisher &amp; Nathan J. Gordon.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

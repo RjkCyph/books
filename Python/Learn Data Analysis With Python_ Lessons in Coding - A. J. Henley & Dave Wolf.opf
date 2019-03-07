@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">199</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">12d9043d-2d20-4add-9e79-5fdd15eac6a5</dc:identifier>
+        <dc:title>Learn Data Analysis With Python: Lessons in Coding</dc:title>
+        <dc:creator opf:file-as="Henley, A. J. &amp; Wolf, Dave" opf:role="aut">A. J. Henley</dc:creator>
+        <dc:creator opf:file-as="Henley, A. J. &amp; Wolf, Dave" opf:role="aut">Dave Wolf</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-02-22T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Get started using Python in data analysis with this compact practical guide. This book includes three exercises and a case study on getting data in and out of Python code in the right format.&lt;em&gt; Learn Data Analysis with Python&lt;/em&gt; also helps you discover meaning in the data using analysis and shows you how to visualize it.  &lt;/p&gt;
+&lt;p&gt;Each lesson is, as much as possible, self-contained to allow you to dip in and out of the examples as your needs dictate. If you are already using Python for data analysis, you will find a number of things that you wish you knew how to do in Python. You can then take these techniques and apply them directly to your own projects.&lt;/p&gt;
+&lt;p&gt;If you aren’t using Python for data analysis, this book takes you through the basics at the beginning to give you a solid foundation in the topic. As you work your way through the book you will have a better of idea of how to use Python for data analysis when you are finished.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What You Will Learn&lt;/strong&gt;  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Get data into and out of Python code  &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Prepare the data and its format  &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Find the meaning of the data  &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Visualize the data using iPython  &lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Who This Book Is For &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Those who want to learn data analysis using Python. Some experience with Python is recommended but not required, as is some prior experience with data analysis or data science.&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;“The present book is built as an accessible, yet thorough introduction to data analysis using Python as programming environment. … The style of the book and textbook-like presentation of concepts recommend it as a good starting point for novices who wish either to understand more about data analysis or wish to learn Python through meaningful examples.” (Irina Ioana Mohorianu, zbMATH 1393.68002, 2018) &lt;/p&gt;
+&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p&gt;Get started using Python in data analysis with this compact practical guide. This book includes three exercises and a case study on getting data in and out of Python code in the right format. &lt;em&gt;Learn Data Analysis with Python&lt;/em&gt; also helps you discover meaning in the data using analysis and shows you how to visualize it.  &lt;/p&gt;
+&lt;p&gt;Each lesson is, as much as possible, self-contained to allow you to dip in and out of the examples as your needs dictate. If you are already using Python for data analysis, you will find a number of things that you wish you knew how to do in Python. You can then take these techniques and apply them directly to your own projects.&lt;/p&gt;
+&lt;p&gt;If you aren’t using Python for data analysis, this book takes you through the basics at the beginning to give you a solid foundation in the topic. As you work your way through the book you will have a better of idea of how to use Python for data analysis when you are finished.&lt;/p&gt;
+&lt;p&gt;You will:  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Get data into and out of Python code  &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Prepare the data and its format  &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Find the meaning of the data  &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Visualize the data using iPython&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</dc:description>
+        <dc:publisher>Apress</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781484234860</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">lpRNDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B079ZRFGGS</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>Databases</dc:subject>
+        <dc:subject>Data Mining</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Industries</dc:subject>
+        <dc:subject>Computers &amp; Information Technology</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Business Mathematics</dc:subject>
+        <meta content="{&quot;A. J. Henley&quot;: &quot;&quot;, &quot;Dave Wolf&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-03-07T10:03:36.506098+00:00" name="calibre:timestamp"/>
+        <meta content="Learn Data Analysis With Python: Lessons in Coding" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Learn Data Analysis With Python_ Lessons in Coding - A. J. Henley &amp; Dave Wolf.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

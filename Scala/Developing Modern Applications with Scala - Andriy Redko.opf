@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">149</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">75c0cd7c-7a7b-4c38-b6fd-264a4269982d</dc:identifier>
+        <dc:title>Developing Modern Applications with Scala</dc:title>
+        <dc:creator opf:file-as="Redko, Andriy" opf:role="aut">Andriy Redko</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-11-06T18:10:01+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Andriy Redko&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-03-07T10:02:10.195551+00:00" name="calibre:timestamp"/>
+        <meta content="Developing Modern Applications with Scala" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Developing Modern Applications with Scala - Andriy Redko.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

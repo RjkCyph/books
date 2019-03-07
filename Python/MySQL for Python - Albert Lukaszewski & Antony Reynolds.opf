@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">173</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ec9edbf0-2155-4a67-8cfd-b74c1a19561d</dc:identifier>
+        <dc:title>MySQL for Python</dc:title>
+        <dc:creator opf:file-as="Lukaszewski, Albert &amp; Reynolds, Antony" opf:role="aut">Albert Lukaszewski</dc:creator>
+        <dc:creator opf:file-as="Lukaszewski, Albert &amp; Reynolds, Antony" opf:role="aut">Antony Reynolds</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-21T10:09:00.708464+00:00</dc:date>
+        <dc:description>This is a practical, tutorial-style book that includes many examples to demonstrate the full potential of MySQL for Python. Every chapter starts with an explanation of the various areas for using MySQL for Python and ends with work on a sample application using the programming calls just learned. All complicated concepts are broken down to be very easy to understand. Everything in the book is designed to help you learn and use MySQL for Python to address your programming needs in the fastest way possible. This book is meant for intermediate users of Python who want hassle-free access to their MySQL database through Python. If you are a Python programmer who wants database-support in your Python applications, then this book is for you. This book is a must-read for every focused user of the MySQL for Python library who wants real-world applications using this powerful combination of Python and MySQL.</dc:description>
+        <dc:publisher>Packt Publishing Ltd</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781849510196</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">SWa1AAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta content="{&quot;Antony Reynolds&quot;: &quot;&quot;, &quot;Albert Lukaszewski&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-03-07T10:02:52.034033+00:00" name="calibre:timestamp"/>
+        <meta content="MySQL for Python" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="MySQL for Python - Albert Lukaszewski &amp; Antony Reynolds.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

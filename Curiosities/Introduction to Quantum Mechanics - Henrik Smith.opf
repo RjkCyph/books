@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">208</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ecbc62c0-a992-4a81-afcf-4d64e5bec6c4</dc:identifier>
+        <dc:title>Introduction to Quantum Mechanics</dc:title>
+        <dc:creator opf:file-as="Smith, Henrik" opf:role="aut">Henrik Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1991-03-15T10:05:38.695677+00:00</dc:date>
+        <dc:description>The book is an introduction to quantum mechanics at a level suitable for the second year in a European university (junior or senior year in an American college). The matrix formulation of quantum mechanics is emphasized throughout, and the student is introduced to Dirac notation from the start. A number of major examples illustrate the workings of quantum mechanics. Several of these examples are taken from solid state physics, with the purpose of showing that quantum mechanics forms the common basis for understanding atoms, molecules and condensed matter. The book contains an introductory chapter which puts the concepts of quantum mechanics into a historical framework. The solid-state applications discussed in this text include the quantum Hall effect, spin waves, quantum wells and energy bands. Other examples feature the two-dimensional harmonic oscillator, coherent states, two-electron atoms, the ammonia molecule and the chemical bond. A large number of homework problems are included.</dc:description>
+        <dc:publisher>World Scientific</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789810204754</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">-0OWF1Z6vRIC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Mechanics</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Physics</dc:subject>
+        <dc:subject>Quantum Theory</dc:subject>
+        <meta content="{&quot;Henrik Smith&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-03-07T10:03:51.699217+00:00" name="calibre:timestamp"/>
+        <meta content="Introduction to Quantum Mechanics" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Introduction to Quantum Mechanics - Henrik Smith.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

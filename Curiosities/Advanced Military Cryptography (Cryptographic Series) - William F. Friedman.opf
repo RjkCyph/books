@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">140</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2c6cd9a0-01f6-4525-a760-590e0953bb74</dc:identifier>
+        <dc:title>Advanced Military Cryptography (Cryptographic Series)</dc:title>
+        <dc:creator opf:file-as="Friedman, William F." opf:role="aut">William F. Friedman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1996-04-02T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Transposition and substitution systems are discussed on a general higher level. Attention is likewise devoted to combined substitution and transposition methods. Cryptographs and their limitations are described. Code systems are treated with emphasis on enciphered code systems. A section of the text is devoted to cipher machines, with discussion as to their importance, types of machines, and advantages and disadvantages of cipher machines.&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;</dc:description>
+        <dc:publisher>Aegean Park Pr</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780894120114</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0894120115</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;William F. Friedman&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-03-07T10:01:56.502173+00:00" name="calibre:timestamp"/>
+        <meta content="Advanced Military Cryptography (Cryptographic Series)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Advanced Military Cryptography (Cryptographic Series) - William F. Friedman.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

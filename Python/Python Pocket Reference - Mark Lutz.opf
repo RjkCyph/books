@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">193</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b888f177-d36a-4337-82ea-72a526cb0e60</dc:identifier>
+        <dc:title>Python Pocket Reference</dc:title>
+        <dc:creator opf:file-as="Lutz, Mark" opf:role="aut">Mark Lutz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-11-11T00:00:00+00:00</dc:date>
+        <dc:description>Python is optimized for quality, productivity, portability, and integration. Hundreds of thousands of Python developers around the world rely on Python for Internet scripting, systems programming, user interfaces, and product customization. Python is available on all major computing platforms, including commercial versions of Unix, Linux, Windows, and Mac OS. It's portable, powerful, and remarkably easy to use. It's also an interpreted language, designed for rapid application development and deployment. Python Pocket Reference, 2nd Editionis a companion volume to two O'Reilly Animal Guides,Programming Python, 2nd EditionandLearning Python. It summarizes Python statements and types, built-in functions, commonly used library modules, and other prominent Python language features. This pocket reference covers the latest Python release 2.2, and provides quick access to just what you're looking for. It is a short, concise reference for the most commonly used libraries and tools. The new edition also includes new summary material for Python's GUI, Internet, and database programming tools. The author, Mark Lutz, is a Python luminary-who has been on the Python scene since its inception.</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781565925007</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">q4LtdR0cAiYC</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1449357016</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Internet</dc:subject>
+        <meta content="{&quot;Mark Lutz&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="10" name="calibre:rating"/>
+        <meta content="2019-03-07T10:03:26.071661+00:00" name="calibre:timestamp"/>
+        <meta content="Python Pocket Reference" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Python Pocket Reference - Mark Lutz.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

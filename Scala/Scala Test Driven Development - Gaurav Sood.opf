@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">179</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6006b461-1394-4b68-816a-a5137d2aba46</dc:identifier>
+        <dc:title>Scala Test Driven Development</dc:title>
+        <dc:creator opf:file-as="Sood, Gaurav" opf:role="aut">Gaurav Sood</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-10-27T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;strong&gt;Build robust Scala applications by implementing the fundamentals of test-driven development in your workflow&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;About This Book&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Get a deep understanding of various testing concepts such as test-driven development (TDD) and BDD&lt;/li&gt;
+&lt;li&gt;Efficient usage of the built-in Scala features such as ScalaTest, specs2, and Scala check&lt;/li&gt;
+&lt;li&gt;Change your approach towards problem solving by thinking about the boundaries of the problem and its definition rather than focusing on the solution&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Who This Book Is For&lt;/h2&gt;
+&lt;p&gt;This book is for Scala developers who are looking to write better quality and easily maintainable code. No previous knowledge of TDD/BDD is required.&lt;/p&gt;
+&lt;h2&gt;What You Will Learn&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Understand the basics of TDD and its significance&lt;/li&gt;
+&lt;li&gt;Refactoring tests to build APIs in order to increase test coverage&lt;/li&gt;
+&lt;li&gt;How to leverage the inbuilt Scala testing modules like ScalaTest, specs2 and Scala Check&lt;/li&gt;
+&lt;li&gt;Writing test fixtures and apply the concepts of BDD&lt;/li&gt;
+&lt;li&gt;How to divide tests to run at different points in continuous delivery cycle&lt;/li&gt;
+&lt;li&gt;Benefits of refactoring and how it affects the final quality of code produced&lt;/li&gt;
+&lt;li&gt;Understanding of SBT based build environment and how to use it to run tests&lt;/li&gt;
+&lt;li&gt;The fundamentals of mocking and stubbing in Scala and how to use it efficiently&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;In Detail&lt;/h2&gt;
+&lt;p&gt;Test-driven development (TDD) produces high-quality applications in less time than is possible with traditional methods. Due to the systematic nature of TDD, the application is tested in individual units as well as cumulatively, right from the design stage, to ensure optimum performance and reduced debugging costs.&lt;/p&gt;
+&lt;p&gt;This step-by-step guide shows you how to use the principles of TDD and built-in Scala testing modules to write clean and fully tested Scala code and give your workflow the change it needs to let you create better applications than ever before.&lt;/p&gt;
+&lt;p&gt;After an introduction to TDD, you will learn the basics of ScalaTest, one of the most flexible and most popular testing tools around for Scala, by building your first fully test-driven application. Building on from that you will learn about the ScalaTest API and how to refactor code to produce high-quality applications.&lt;/p&gt;
+&lt;p&gt;We'll teach you the concepts of BDD (Behavior-driven development) and you'll see how to add functional tests to the existing suite of tests. You'll be introduced to the concepts of Mocks and Stubs and will learn to increase test coverage using properties.&lt;/p&gt;
+&lt;p&gt;With a concluding chapter on miscellaneous tools, this book will enable you to write better quality code that is easily maintainable and watch your apps change for the better.&lt;/p&gt;
+&lt;h2&gt;Style and approach&lt;/h2&gt;
+&lt;p&gt;This step-by-step guide explains the significance of TDD in Scala through various practical examples. You will learn to write a complete test-driven application throughout the course of the book.&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;</dc:description>
+        <dc:publisher>Packt Publishing - ebooks Account</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781786464675</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01FSO1D2G</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1786464675</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Gaurav Sood&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2019-03-07T10:03:02.151822+00:00" name="calibre:timestamp"/>
+        <meta content="Scala Test Driven Development" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Scala Test Driven Development - Gaurav Sood.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

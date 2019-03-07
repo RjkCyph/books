@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">167</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a1986e16-0910-4691-b279-66f590480f5f</dc:identifier>
+        <dc:title>Spark: The Definitive Guide: Big Data Processing Made Simple</dc:title>
+        <dc:creator opf:file-as="Chambers, Bill" opf:role="aut">Bill Chambers</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-03-08T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Learn how to use, deploy, and maintain Apache Spark with this comprehensive guide, written by the creators of the open-source cluster-computing framework. With an emphasis on improvements and new features in Spark 2.0, authors Bill Chambers and Matei Zaharia break down Spark topics into distinct sections, each with unique goals.&lt;/p&gt;
+&lt;p&gt;You’ll explore the basic operations and common functions of Spark’s structured APIs, as well as Structured Streaming, a new high-level API for building end-to-end streaming applications. Developers and system administrators will learn the fundamentals of monitoring, tuning, and debugging Spark, and explore machine learning techniques and scenarios for employing MLlib, Spark’s scalable machine-learning library.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Get a gentle overview of big data and Spark&lt;/li&gt;
+&lt;li&gt;Learn about DataFrames, SQL, and Datasets—Spark’s core APIs—through worked examples&lt;/li&gt;
+&lt;li&gt;Dive into Spark’s low-level APIs, RDDs, and execution of SQL and DataFrames&lt;/li&gt;
+&lt;li&gt;Understand how Spark runs on a cluster&lt;/li&gt;
+&lt;li&gt;Debug, monitor, and tune Spark clusters and applications&lt;/li&gt;
+&lt;li&gt;Learn the power of Structured Streaming, Spark’s stream-processing engine&lt;/li&gt;
+&lt;li&gt;Learn how you can apply MLlib to a variety of problems, including classification or recommendation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;**&lt;/p&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781491912218</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1491912219</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Bill Chambers&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2019-03-07T10:02:41.599549+00:00" name="calibre:timestamp"/>
+        <meta content="Spark: The Definitive Guide: Big Data Processing Made Simple" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Spark_ The Definitive Guide_ Big Data Processing Made Simple - Bill Chambers.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

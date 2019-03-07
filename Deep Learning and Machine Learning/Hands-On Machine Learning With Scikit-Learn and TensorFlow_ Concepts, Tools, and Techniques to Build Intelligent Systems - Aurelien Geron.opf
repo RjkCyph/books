@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">172</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">821f686d-6477-480e-857a-b04a17b6077a</dc:identifier>
+        <dc:title>Hands-On Machine Learning With Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems</dc:title>
+        <dc:creator opf:file-as="Géron, Aurélien" opf:role="aut">Aurélien Géron</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-03-13T10:08:54.952567+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;strong&gt;Graphics in this book are printed in black and white&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning. Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data. This practical book shows you how.&lt;/p&gt;
+&lt;p&gt;By using concrete examples, minimal theory, and two production-ready Python frameworks—scikit-learn and TensorFlow—author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each chapter to help you apply what you’ve learned, all you need is programming experience to get started.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Explore the machine learning landscape, particularly neural nets&lt;/li&gt;
+&lt;li&gt;Use scikit-learn to track an example machine-learning project end-to-end&lt;/li&gt;
+&lt;li&gt;Explore several training models, including support vector machines, decision trees, random forests, and ensemble methods&lt;/li&gt;
+&lt;li&gt;Use the TensorFlow library to build and train neural nets&lt;/li&gt;
+&lt;li&gt;Dive into neural net architectures, including convolutional nets, recurrent nets, and deep reinforcement learning&lt;/li&gt;
+&lt;li&gt;Learn techniques for training and scaling deep neural nets&lt;/li&gt;
+&lt;li&gt;Apply practical code examples without acquiring excessive machine learning theory or algorithm details&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;**&lt;/p&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781491962244</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1491962291</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">bRpYDgAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B06XNKV5TS</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Data Processing</dc:subject>
+        <dc:subject>Intelligence (AI) &amp; Semantics</dc:subject>
+        <dc:subject>Computer Vision &amp; Pattern Recognition</dc:subject>
+        <dc:subject>Natural Language Processing</dc:subject>
+        <dc:subject>Neural Networks</dc:subject>
+        <meta content="{&quot;Aurélien Géron&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2019-03-07T10:02:50.058809+00:00" name="calibre:timestamp"/>
+        <meta content="Hands-On Machine Learning With Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Hands-On Machine Learning With Scikit-Learn and TensorFlow_ Concepts, Tools, and Techniques to Build Intelligent Systems - Aurelien Geron.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

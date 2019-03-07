@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">157</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">998fe203-89af-4331-910b-f5f16bf630b7</dc:identifier>
+        <dc:title>Foundations of Cryptography V1</dc:title>
+        <dc:creator opf:file-as="Goldreich, Oded" opf:role="aut">Oded Goldreich</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-01-18T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Cryptography is concerned with the conceptualization, definition and construction of computing systems that address security concerns. This book presents a rigorous and systematic treatment of the foundational issues: defining cryptographic tasks and solving new cryptographic problems using existing tools. It focuses on the basic mathematical tools: computational difficulty (one-way functions), pseudorandomness and zero-knowledge proofs. Rather than describing ad-hoc approaches, this book emphasizes the clarification of fundamental concepts and the demonstration of the feasibility of solving cryptographic problems. It is suitable for use in a graduate course on cryptography and as a reference book for experts.&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;</dc:description>
+        <dc:publisher>Cambridge University Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780521035361</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0521035368</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Oded Goldreich&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2019-03-07T10:02:23.178113+00:00" name="calibre:timestamp"/>
+        <meta content="Foundations of Cryptography V1" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Foundations of Cryptography V1 - Oded Goldreich.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

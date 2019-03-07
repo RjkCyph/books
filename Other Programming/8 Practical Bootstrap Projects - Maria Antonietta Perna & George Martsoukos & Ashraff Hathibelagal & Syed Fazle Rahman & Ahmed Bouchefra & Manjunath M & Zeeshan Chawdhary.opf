@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">154</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b0da850b-35e8-4e86-a826-11f5f8f2f115</dc:identifier>
+        <dc:title>8 Practical Bootstrap Projects</dc:title>
+        <dc:creator opf:file-as="Perna, Maria Antonietta &amp; Martsoukos, George &amp; Hathibelagal, Ashraff &amp; Rahman, Syed Fazle &amp; Bouchefra, Ahmed &amp; M, Manjunath &amp; Chawdhary, Zeeshan" opf:role="aut">Maria Antonietta Perna</dc:creator>
+        <dc:creator opf:file-as="Perna, Maria Antonietta &amp; Martsoukos, George &amp; Hathibelagal, Ashraff &amp; Rahman, Syed Fazle &amp; Bouchefra, Ahmed &amp; M, Manjunath &amp; Chawdhary, Zeeshan" opf:role="aut">George Martsoukos</dc:creator>
+        <dc:creator opf:file-as="Perna, Maria Antonietta &amp; Martsoukos, George &amp; Hathibelagal, Ashraff &amp; Rahman, Syed Fazle &amp; Bouchefra, Ahmed &amp; M, Manjunath &amp; Chawdhary, Zeeshan" opf:role="aut">Ashraff Hathibelagal</dc:creator>
+        <dc:creator opf:file-as="Perna, Maria Antonietta &amp; Martsoukos, George &amp; Hathibelagal, Ashraff &amp; Rahman, Syed Fazle &amp; Bouchefra, Ahmed &amp; M, Manjunath &amp; Chawdhary, Zeeshan" opf:role="aut">Syed Fazle Rahman</dc:creator>
+        <dc:creator opf:file-as="Perna, Maria Antonietta &amp; Martsoukos, George &amp; Hathibelagal, Ashraff &amp; Rahman, Syed Fazle &amp; Bouchefra, Ahmed &amp; M, Manjunath &amp; Chawdhary, Zeeshan" opf:role="aut">Ahmed Bouchefra</dc:creator>
+        <dc:creator opf:file-as="Perna, Maria Antonietta &amp; Martsoukos, George &amp; Hathibelagal, Ashraff &amp; Rahman, Syed Fazle &amp; Bouchefra, Ahmed &amp; M, Manjunath &amp; Chawdhary, Zeeshan" opf:role="aut">Manjunath M</dc:creator>
+        <dc:creator opf:file-as="Perna, Maria Antonietta &amp; Martsoukos, George &amp; Hathibelagal, Ashraff &amp; Rahman, Syed Fazle &amp; Bouchefra, Ahmed &amp; M, Manjunath &amp; Chawdhary, Zeeshan" opf:role="aut">Zeeshan Chawdhary</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-08-06T10:11:46.490842+00:00</dc:date>
+        <dc:description>Bootstrap stands as one of the most popular, open-source, front-end frameworks on the Web. Since its official release in 2011, it has undergone several changes, and it's now one of the most stable and responsive frameworks available. It's loved by web developers of all levels, as it gives them the capability to build a functional, attractive website design within minutes. A novice developer with just some basic knowledge of HTML and little CSS can easily get started with Bootstrap. In this book, we'll share a selection of nine different practical projects that you can follow along with. It contains: Spicing Up the Bootstrap Carousel with CSS3 Animations by Maria Antonietta PernaA Full-screen Bootstrap Carousel with Random Initial Image by George MartsoukosAnimating Bootstrap Carousels with GSAP's Animation Library by George MartsoukosBuild a Simple Tumblr Theme with Bootstrap by Ashraff Hathibelagal How to Build a Responsive Bootstrap Website by Syed Fazle RahmanBootstrap and WordPress Theme Integration in 8 Easy Steps by Ahmed BouchefraIntegrating Bootstrap with React: a Guide for Developers by Manjunath MIntegrating Bootstrap with Vue.js using Bootstrap-Vue by Zeeshan Chawdhary This book is for all frontend developers who want to build responsive, mobile-first websites. You'll need to be familiar with HTML and CSS and have a reasonable level of understanding of JavaScript in order to follow the discussion.</dc:description>
+        <dc:publisher>SitePoint</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781492068501</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">FZlnDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Web</dc:subject>
+        <dc:subject>Design</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>Html</dc:subject>
+        <dc:subject>JavaScript</dc:subject>
+        <meta content="{&quot;Maria Antonietta Perna&quot;: &quot;&quot;, &quot;George Martsoukos&quot;: &quot;&quot;, &quot;Ahmed Bouchefra&quot;: &quot;&quot;, &quot;Manjunath M&quot;: &quot;&quot;, &quot;Syed Fazle Rahman&quot;: &quot;&quot;, &quot;Ashraff Hathibelagal&quot;: &quot;&quot;, &quot;Zeeshan Chawdhary&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-03-07T10:02:18.205884+00:00" name="calibre:timestamp"/>
+        <meta content="8 Practical Bootstrap Projects" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="8 Practical Bootstrap Projects - Maria Antonietta Perna &amp; George Martsoukos &amp; Ashraff Hathibelagal &amp; Syed Fazle Rahman &amp; Ahmed Bouchefra &amp; Manjunath M &amp; Zeeshan Chawdhary.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

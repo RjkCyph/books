@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">196</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5c9ac770-c176-4935-841d-e6b0ba58cc97</dc:identifier>
+        <dc:title>Agile Software Development Succinctly</dc:title>
+        <dc:creator opf:file-as="Haunts, Stephen" opf:role="aut">Stephen Haunts</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <dc:subject>An overview of the theories behind and practical applications of Agile development processes.</dc:subject>
+        <dc:subject>Agile</dc:subject>
+        <dc:subject>Syncfusion</dc:subject>
+        <dc:subject>Succinctly series</dc:subject>
+        <dc:subject>development</dc:subject>
+        <dc:subject>development processes</dc:subject>
+        <dc:subject>processes</dc:subject>
+        <meta content="{&quot;Stephen Haunts&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-03-07T10:03:31.205528+00:00" name="calibre:timestamp"/>
+        <meta content="Agile Software Development Succinctly" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Agile Software Development Succinctly - Stephen Haunts.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

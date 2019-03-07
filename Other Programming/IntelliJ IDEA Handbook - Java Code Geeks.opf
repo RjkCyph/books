@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">183</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aa8cf193-9036-4e8c-9416-34b2e8fc660f</dc:identifier>
+        <dc:title>IntelliJ IDEA Handbook</dc:title>
+        <dc:creator opf:file-as="Geeks, Java Code" opf:role="aut">Java Code Geeks</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-01-03T16:57:05+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Java Code Geeks&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-03-07T10:03:08.527787+00:00" name="calibre:timestamp"/>
+        <meta content="IntelliJ IDEA Handbook" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="IntelliJ IDEA Handbook - Java Code Geeks.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

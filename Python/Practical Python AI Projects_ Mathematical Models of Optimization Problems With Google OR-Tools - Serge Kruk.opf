@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">156</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e4889c03-7fc2-4d29-b7d8-e38b17a6d7bb</dc:identifier>
+        <dc:title>Practical Python AI Projects: Mathematical Models of Optimization Problems With Google OR-Tools</dc:title>
+        <dc:creator opf:file-as="Kruk, Serge" opf:role="aut">Serge Kruk</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-02-26T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Discover the art and science of solving artificial intelligence problems with Python using optimization modeling. This book covers the practical creation and analysis of mathematical algebraic models such as linear continuous models, non-obviously linear continuous models,&lt;/p&gt;
+&lt;p&gt;and pure linear integer models. Rather than focus on theory, &lt;em&gt;Practical Python AI Projects&lt;/em&gt;, the product of the author's decades of industry teaching and consulting, stresses the model creation aspect; contrasting alternate approaches and practical variations.&lt;/p&gt;
+&lt;p&gt;Each model is explained thoroughly and written to be executed. The source code from all examples in the book is available, written in Python using Google OR-Tools. It also includes a random problem generator, useful for industry application or study.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What You Will Learn&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Build basic Python-based artificial intelligence (AI) applications   &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Work with mathematical optimization methods and the Google OR-Tools (Optimization Tools) suite  &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Create several types of projects using Python and Google OR-Tools  &lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Who This Book Is For&lt;/strong&gt;  &lt;/p&gt;
+&lt;p&gt;Developers and students who already have prior experience in Python coding. Some prior mathematical experience or comfort level may be helpful as well.  &lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p&gt;Discover the art and science of solving artificial intelligence problems with Python using optimization modeling. This book covers the practical creation and analysis of mathematical algebraic models such as linear continuous models, non-obviously linear continuous models,&lt;/p&gt;
+&lt;p&gt;and pure linear integer models. Rather than focus on theory, &lt;em&gt;Practical Python AI Projects&lt;/em&gt;, the product of the author's decades of industry teaching and consulting, stresses the model creation aspect; contrasting alternate approaches and practical variations.&lt;/p&gt;
+&lt;p&gt;Each model is explained thoroughly and written to be executed. The source code from all examples in the book is available, written in Python using Google OR-Tools. It also includes a random problem generator, useful for industry application or study.&lt;/p&gt;
+&lt;p&gt;You will:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Build basic Python-based artificial intelligence (AI) applications   &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Work with mathematical optimization methods and the Google OR-Tools (Optimization Tools) suite  &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Create several types of projects using Python and Google OR-Tools&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Serge Kruk, PhD is a professor at the Department of Mathematics and Statistics at Oakland University and worked for Bell-Northern Research. His current research interests still bear the stamp of practicality enforced by years in industry: algorithms for semidefinite optimization, scheduling, feasibility and the related numerical linear algebra and analysis. After a few wandering years studying physics, computer science, engineering, and philosophy in Montreal in the seventies, the author entered the industrial world and spent more than a decade designing optimization software, telecommunication protocols and real-time controllers. He left Bell-Northern Research, the best geek playground in Canada, to become the oldest student in the Faculty of Mathematics of the University of Waterloo and attach the three letters Ph.D. to his name.The intention, at first, was to return to the real world. But a few years misspent as mathematics and computer science instructor at Waterloo, Wilfrid-Laurier, and finally Oakland convinced him of the appeal of academia. Since then he has wandered as far geographically as Melbourne and as far culturally as l'Ile de la Reunion, mostly teaching and consulting, with the occasional foray into research, guiding a couple of doctoral students through the painful process of dissertation. &lt;/p&gt;</dc:description>
+        <dc:publisher>Apress</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B07B3TBZ5J</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Serge Kruk&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2019-03-07T10:02:21.640329+00:00" name="calibre:timestamp"/>
+        <meta content="Practical Python AI Projects: Mathematical Models of Optimization Problems With Google OR-Tools" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Practical Python AI Projects_ Mathematical Models of Optimization Problems With Google OR-Tools - Serge Kruk.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

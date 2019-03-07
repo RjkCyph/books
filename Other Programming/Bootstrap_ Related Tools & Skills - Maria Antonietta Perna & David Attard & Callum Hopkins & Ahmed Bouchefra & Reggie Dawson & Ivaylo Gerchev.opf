@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">155</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">522bd8b0-a352-49a6-8a2c-5b3bab6fa10a</dc:identifier>
+        <dc:title>Bootstrap: Related Tools &amp; Skills</dc:title>
+        <dc:creator opf:file-as="Perna, Maria Antonietta &amp; Attard, David &amp; Hopkins, Callum &amp; Bouchefra, Ahmed &amp; Dawson, Reggie &amp; Gerchev, Ivaylo" opf:role="aut">Maria Antonietta Perna</dc:creator>
+        <dc:creator opf:file-as="Perna, Maria Antonietta &amp; Attard, David &amp; Hopkins, Callum &amp; Bouchefra, Ahmed &amp; Dawson, Reggie &amp; Gerchev, Ivaylo" opf:role="aut">David Attard</dc:creator>
+        <dc:creator opf:file-as="Perna, Maria Antonietta &amp; Attard, David &amp; Hopkins, Callum &amp; Bouchefra, Ahmed &amp; Dawson, Reggie &amp; Gerchev, Ivaylo" opf:role="aut">Callum Hopkins</dc:creator>
+        <dc:creator opf:file-as="Perna, Maria Antonietta &amp; Attard, David &amp; Hopkins, Callum &amp; Bouchefra, Ahmed &amp; Dawson, Reggie &amp; Gerchev, Ivaylo" opf:role="aut">Ahmed Bouchefra</dc:creator>
+        <dc:creator opf:file-as="Perna, Maria Antonietta &amp; Attard, David &amp; Hopkins, Callum &amp; Bouchefra, Ahmed &amp; Dawson, Reggie &amp; Gerchev, Ivaylo" opf:role="aut">Reggie Dawson</dc:creator>
+        <dc:creator opf:file-as="Perna, Maria Antonietta &amp; Attard, David &amp; Hopkins, Callum &amp; Bouchefra, Ahmed &amp; Dawson, Reggie &amp; Gerchev, Ivaylo" opf:role="aut">Ivaylo Gerchev</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-08-06T10:11:53.128891+00:00</dc:date>
+        <dc:description>Bootstrap stands as one of the most popular, open-source, front-end frameworks on the Web. Since its official release in 2011, it has undergone several changes, and it's now one of the most stable and responsive frameworks available. It's loved by web developers of all levels, as it gives them the capability to build a functional, attractive website design within minutes. A novice developer with just some basic knowledge of HTML and little CSS can easily get started with Bootstrap. In this book, we'll look at some related tools and skills that will help you with Bootstrap development. It contains: 15 Bootstrap Tools and Playgrounds by David AttardAn Introduction to Grid Systems in Web Design by Callum Hopkins Bootstrap UI Libraries for Angular, React and Vue.js by Maria Antonietta PernaBootstrap Grid: Mastering the Most Useful Flexbox Properties by Ahmed BouchefraBootstrap Sass Installation and Customization by Reggie DawsonThe 5 Most Popular Front-end Frameworks Compared by Ivaylo Gerchev The CSS Grid Layout vs CSS Frameworks Debate by Maria Antonietta Perna This book is for all frontend developers who want to build responsive, mobile-first websites. You'll need to be familiar with HTML and CSS and have a reasonable level of understanding of JavaScript in order to follow the discussion.</dc:description>
+        <dc:publisher>SitePoint</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781492068518</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">D5lnDwAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Web</dc:subject>
+        <dc:subject>Design</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>JavaScript</dc:subject>
+        <dc:subject>Html</dc:subject>
+        <meta content="{&quot;Maria Antonietta Perna&quot;: &quot;&quot;, &quot;Ahmed Bouchefra&quot;: &quot;&quot;, &quot;David Attard&quot;: &quot;&quot;, &quot;Callum Hopkins&quot;: &quot;&quot;, &quot;Ivaylo Gerchev&quot;: &quot;&quot;, &quot;Reggie Dawson&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-03-07T10:02:19.981198+00:00" name="calibre:timestamp"/>
+        <meta content="Bootstrap: Related Tools &amp; Skills" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Bootstrap_ Related Tools &amp; Skills - Maria Antonietta Perna &amp; David Attard &amp; Callum Hopkins &amp; Ahmed Bouchefra &amp; Reggie Dawson &amp; Ivaylo Gerchev.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

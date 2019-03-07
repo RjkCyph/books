@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">148</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">060ed67e-017f-490d-9306-1d0fccbf0dfb</dc:identifier>
+        <dc:title>C++ for Dummies</dc:title>
+        <dc:creator opf:file-as="Davis, Stephen R." opf:role="aut">Stephen R. Davis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-05-03T10:13:40.023286+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;strong&gt;The best-selling C++ For Dummies book makes C++ easier!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;C++ For Dummies, 7th Edition&lt;/em&gt; is the best-selling C++ guide on the market, fully revised for the 2014 update. With over 60% new content, this updated guide reflects the new standards, and includes a new Big Data focus that highlights the use of C++ among popular Big Data software solutions. The book provides step-by-step instruction from the ground up, helping beginners become programmers and allowing intermediate programmers to sharpen their skills. The companion website provides all code mentioned in the text, an updated GNU_C++, the new C++ compiler, and other applications. By the end of the first chapter, you will have programmed your first C++ application!&lt;/p&gt;
+&lt;p&gt;As one of the most commonly used programming languages, C++ is a must-have skill for programmers who wish to remain versatile and marketable. &lt;em&gt;C++ For Dummies, 7th Edition&lt;/em&gt; provides clear, concise, expert instruction, which is organized for easy navigation and designed for hands-on learning. Whether you're new to programming, familiar with other languages, or just getting up to speed on the new libraries, features, and generics, this guide provides the information you need.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Provides you with an introduction to C++ programming&lt;/li&gt;
+&lt;li&gt;Helps you become a functional programmer&lt;/li&gt;
+&lt;li&gt;Features information on classes, inheritance, and optional features&lt;/li&gt;
+&lt;li&gt;Teaches you 10 ways to avoid adding bugs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The book incorporates the newest C++ features into the fundamental instruction, allowing beginners to learn the update as they learn the language. Staying current on the latest developments is a crucial part of being a programmer, and &lt;em&gt;C++ For Dummies, 7th Edition&lt;/em&gt; gets you started off on the right foot.&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;h3&gt;From the Back Cover&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Learn to:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Program in C++ from the ground up&lt;/li&gt;
+&lt;li&gt;Write your first program in C++&lt;/li&gt;
+&lt;li&gt;Work with master classes and inheritance&lt;/li&gt;
+&lt;li&gt;Sail through streaming I/O&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;The bestselling guide that shows you how to master C++ from the ground up&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Whether you’re a beginner or intermediate programmer looking to fine-tune your skills, &lt;em&gt;C&lt;/em&gt;++ &lt;em&gt;For Dummies&lt;/em&gt; gives you clear instructions and guidance on becoming a functional C++ programmer. Updated to reflect the latest changes for C++ 2014, this hands-on guide shows you how to make sense of classes, inheritance, and advanced strokes—and much more.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;C++ Programming 101 — find out what it means to write a computer program, learn to speak the C++ language, and start crunching C++ commands&lt;/li&gt;
+&lt;li&gt;Put the “fun” in functional programming — build upon your newly-gained knowledge to bundle sections of C++ code into modules, and then reuse those modules in programs&lt;/li&gt;
+&lt;li&gt;The plot thickens — get the scoop on object-oriented programming and grasp classes, constructors, destructors, and much more&lt;/li&gt;
+&lt;li&gt;Fly first class — understand why inheritance is the key to effective C++ programming, and become a first-rate object-oriented programmer&lt;/li&gt;
+&lt;li&gt;Become a master programmer — take your skills to the next level and master features like file input/output, error-handling, constructs, and templates&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Open the book and find:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How to create your first program in Code::Blocks&lt;/li&gt;
+&lt;li&gt;Mathematical and logical operations&lt;/li&gt;
+&lt;li&gt;An introduction to pointers&lt;/li&gt;
+&lt;li&gt;What you need to know about object-oriented programming&lt;/li&gt;
+&lt;li&gt;How to use the copy constructor&lt;/li&gt;
+&lt;li&gt;Ways to handle errors and keep your program from being hacked&lt;/li&gt;
+&lt;li&gt;A companion website that features all the code from the book&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Stephen R. Davis&lt;/strong&gt; is the bestselling author of numerous books and articles, including &lt;em&gt;C# For Dummies&lt;/em&gt;. He has been programming for over 30 years and currently works for Booz Allen Hamilton in the area of Homeland Defense.&lt;/p&gt;</dc:description>
+        <dc:publisher>For Dummies</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780764573941</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">QuluB-uwHkEC</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B00KJEOWJC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>C</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Team DDU</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <meta content="{&quot;Stephen R. Davis&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2019-03-07T10:02:08.603674+00:00" name="calibre:timestamp"/>
+        <meta content="C++ for Dummies" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="C__ for Dummies - Stephen R. Davis.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

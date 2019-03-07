@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">170</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1f37097c-7097-42d0-abea-835da93d5467</dc:identifier>
+        <dc:title>The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World</dc:title>
+        <dc:creator opf:file-as="Domingos, Pedro" opf:role="aut">Pedro Domingos</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-22T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;strong&gt;A thought-provoking and wide-ranging exploration of machine learning and the race to build computer intelligences as flexible as our own&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In the world's top research labs and universities, the race is on to invent the ultimate learning algorithm: one capable of discovering any knowledge from data, and doing anything we want, before we even ask. In &lt;em&gt;The Master Algorithm&lt;/em&gt;, Pedro Domingos lifts the veil to give us a peek inside the learning machines that power Google, Amazon, and your smartphone. He assembles a blueprint for the future universal learner--the Master Algorithm--and discusses what it will mean for business, science, and society. If data-ism is today's philosophy, this book is its bible.  &lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;“Domingos writes with verve and passion, and the book has a strong narrative.”&lt;br /&gt;
+&lt;strong&gt;—*New Scientist&lt;/strong&gt;*  &lt;/p&gt;
+&lt;p&gt;“[&lt;em&gt;The Master Algorithm&lt;/em&gt;] opens the doorway to a world many of us never see or think about, though it has a tremendous impact on our daily lives.”&lt;br /&gt;
+&lt;strong&gt;—*Shelf Awareness for Readers&lt;/strong&gt;*  &lt;/p&gt;
+&lt;p&gt;“[The Master Algorithm] does a good job of examining the field’s five main techniques...The subject is meaty and the author…has a knack for introducing concepts at the right moment.”&lt;br /&gt;
+&lt;strong&gt;—*The Economist&lt;/strong&gt;*  &lt;/p&gt;
+&lt;p&gt;“Wonderfully erudite, humorous, and easy to read.”&lt;br /&gt;
+&lt;strong&gt;—*KDNuggets&lt;/strong&gt;*  &lt;/p&gt;
+&lt;p&gt;“Domingos is a genial and amusing guide, who sneaks us around the backstage areas of the science in order to witness the sometimes personal (and occasionally acrimonious) tenor of research on the subject in recent decades... This is a highly inclusive book, aimed at a wide range of readers from the merely curious to those who might be interested in pursuing a career in the field. Descriptions and discussions are presented with a commendable lack of jargon and the examples are clear and accessible.”&lt;br /&gt;
+&lt;strong&gt;—*Times Higher Education&lt;/strong&gt;*  &lt;/p&gt;
+&lt;p&gt;“An exhilarating venture into groundbreaking computer science.”&lt;br /&gt;
+&lt;strong&gt;—&lt;em&gt;Booklist&lt;/em&gt;, starred review &lt;/strong&gt;  &lt;/p&gt;
+&lt;p&gt;“[An] enthusiastic but not dumbed-down introduction to machine learning... lucid and consistently informative.... With wit, vision, and scholarship, Domingos describes how these scientists are creating programs that allow a computer to teach itself. Readers...will discover fascinating insights.”&lt;br /&gt;
+&lt;strong&gt;—*Kirkus Reviews&lt;/strong&gt;*  &lt;/p&gt;
+&lt;p&gt;“This book is a sheer pleasure, mixed with education. I am recommending it to all my students, those who studied machine learning, those who are about to do it and those who are about to teach it. The author succeeds not only in presenting an accurate and entertaining journey through the methodological ideas behind machine learning but also in embedding those ideas in a colorful tapestry of philosophical questions concerning the ultimate capacity of man to emulate itself. A must read for both realists and futurists.”&lt;br /&gt;
+&lt;strong&gt;—Judea Pearl, Professor of Computer Science, UCLA and winner of the A. M. Turing Award&lt;/strong&gt;  &lt;/p&gt;
+&lt;p&gt;“Starting with the audacious claim that all knowledge can be derived from data by a single ‘master algorithm,’ Domingos takes the reader on a fast-paced journey through the brave new world of machine learning. Writing breezily but with deep authority, Domingos is the perfect tour guide from whom you will learn everything you need to know about this exciting field, and a surprising amount about science and philosophy as well.”&lt;br /&gt;
+&lt;strong&gt;—Duncan Watts, Principal Researcher, Microsoft Research, and author of &lt;em&gt;Six Degrees&lt;/em&gt; and &lt;em&gt;Everything Is Obvious &lt;/em&gt;Once You Know the Answer&lt;/strong&gt;*  &lt;/p&gt;
+&lt;p&gt;“The holy grail of computer science is a machine that can teach itself, as we humans do, from experience. Machine learning could help us do everything from curing cancer to building humanoid robots. Pedro Domingos demystifies machine learning and shows how wondrous and exciting the future will be.”&lt;br /&gt;
+&lt;strong&gt;—Walter Isaacson, author of &lt;em&gt;Steve Jobs&lt;/em&gt; and *The Innovators&lt;/strong&gt;*  &lt;/p&gt;
+&lt;p&gt;“Machine learning, known in commercial use as predictive analytics, is changing the world. This riveting, far-reaching, and inspiring book introduces the deep scientific concepts to even non-technical readers, and yet also satisfies experts with a fresh, profound perspective that reveals the most promising research directions. It's a rare gem indeed.”&lt;br /&gt;
+&lt;strong&gt;—Eric Siegel, founder of Predictive Analytics World and author of *Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die&lt;/strong&gt;*  &lt;/p&gt;
+&lt;p&gt;“With terms like ‘Machine Learning’ and ‘Big Data’ regularly making headlines, there is no shortage of hype-filled business books on the subject. There are also textbooks that are too technical to be accessible. For those in the middle—from executives to college students—this is the ideal book, showing how and why things really work without the heavy math. Unlike other books that proclaim a bright future, this one actually gives you what you need to understand the changes that are coming.”&lt;br /&gt;
+&lt;strong&gt;—Peter Norvig, Director of Research, Google and coauthor of *Artificial Intelligence: A Modern Approach&lt;/strong&gt;*  &lt;/p&gt;
+&lt;p&gt;“Machine learning is the single most transformative technology that will shape our lives over the next fifteen years. This book is a must-read—a bold and beautifully written new framework for looking into the future.”&lt;br /&gt;
+&lt;strong&gt;—Geoffrey Moore, author of *Crossing the Chasm&lt;/strong&gt;*  &lt;/p&gt;
+&lt;p&gt;“This is an incredibly important and useful book. Machine learning is already critical to your life and work, and will only become more so. Finally, Pedro Domingos has written about it in a clear and understandable fashion.”&lt;br /&gt;
+&lt;strong&gt;—Thomas H. Davenport, Distinguished Professor, Babson College and author of Competing on Analytics and *Big Data @ Work&lt;/strong&gt;*   &lt;/p&gt;
+&lt;p&gt;“Machine learning is a fascinating world never before glimpsed by outsiders. Pedro Domingos initiates you to the mysterious languages spoken by its five tribes, and invites you to join in his plan to unite them, creating the most powerful technology our civilization has ever seen.”&lt;br /&gt;
+&lt;strong&gt;—Sebastian Seung, Professor, Princeton, and author of *Connectome&lt;/strong&gt;*  &lt;/p&gt;
+&lt;p&gt;“A delightful book by one of the leading experts in the field. If you wonder how AI will change your life, read this book.”&lt;br /&gt;
+&lt;strong&gt;—Sebastian Thrun, Research Professor, Stanford, Google Fellow and Inventor of the Self-Driving Car&lt;/strong&gt;  &lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Pedro Domingos&lt;/strong&gt; is a professor of computer science at the University of Washington. He is a winner of the SIGKDD Innovation Award, the highest honor in data science. A fellow of the Association for the Advancement of Artificial Intelligence, he lives near Seattle.  &lt;/p&gt;</dc:description>
+        <dc:publisher>Basic Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">0465094279</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B012271YB2</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Pedro Domingos&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2019-03-07T10:02:46.675105+00:00" name="calibre:timestamp"/>
+        <meta content="Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Master Algorithm_ How the Quest for the Ultimate Learning Machine Will Remake Our World, The - Pedro Domingos.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

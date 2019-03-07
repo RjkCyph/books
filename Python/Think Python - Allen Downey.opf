@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">182</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e6e80ef8-8941-4c2b-8e8d-0f9d710a9330</dc:identifier>
+        <dc:title>Think Python</dc:title>
+        <dc:creator opf:file-as="Downey, Allen" opf:role="aut">Allen Downey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-08-13T10:07:24.037031+00:00</dc:date>
+        <dc:description>If you want to learn how to program, working with Python is an excellent way to start. This hands-on guide takes you through the language one step at a time, beginning with basic programming concepts before moving on to functions, recursion, data structures, and object-oriented design. Through exercises in each chapter, you’ll try out programming concepts as you learn them. Think Python is ideal for students at the high school or college level, as well as self-learners, home-schooled students, and professionals who need to learn programming basics.  Start with the basics, including language syntax and semantics Get a clear definition of each programming concept Learn values, variables, statements, functions, and data structures in a logical progression Discover how to work with files and databases Understand objects, methods, and object-oriented programming Use debugging techniques to fix syntax, runtime, and semantic errors Explore interface design, data structures, and GUI-based programs through case studies</dc:description>
+        <dc:publisher>"O'Reilly Media, Inc."</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781449330729</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">1mZtP9H6OMQC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>Python</dc:subject>
+        <dc:subject>Bioinformatics</dc:subject>
+        <meta content="{&quot;Allen Downey&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-03-07T10:03:06.860823+00:00" name="calibre:timestamp"/>
+        <meta content="Think Python" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Think Python - Allen Downey.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

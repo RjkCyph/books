@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">171</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">881075fa-d122-4b35-ba1d-0ce3c95b58db</dc:identifier>
+        <dc:title>Krav Maga: Use Your Body as a Weapon</dc:title>
+        <dc:creator opf:file-as="Aviram, Boaz" opf:role="aut">Boaz Aviram</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-07-15T00:00:00+00:00</dc:date>
+        <dc:description>&lt;ul&gt;
+&lt;li&gt;The complete beginner’s guide to Krav Maga &lt;/li&gt;
+&lt;li&gt;An instructional book for athletes interested in this type of self-defense&lt;/li&gt;
+&lt;li&gt;Updated edition that contains the basic rules and new tips to improve your form and prevent injury&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This training manual is ideal for anyone curious about Krav Maga. This noncompetitive self- defense technique began in the Israeli Defense Force (IDF). The guide’s author, Boaz Aviram, has been a member of the IDF for years. Krav Maga brings together skills and training from many martial arts, ranging from jiujitsu to judo to boxing. It shares with is students critical lessons in maintaining awareness and making each strike count in self-defense. In its instructional and updated edition, &lt;em&gt;Krav Maga: Use Your Body as a Weapon &lt;/em&gt;teaches athletes about their own anatomy and muscles to help them avoid injury.  &lt;/p&gt;
+&lt;p&gt;Aviram provides concrete and reliable information on how to tackle your opponent int he more efficient and effective way. Some methods include:  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Paying attention to possible escape routes&lt;/li&gt;
+&lt;li&gt;Using your opponent’s weakest areas to your advantage &lt;/li&gt;
+&lt;li&gt;Using common objects at hand to fight with&lt;/li&gt;
+&lt;li&gt;Preemptive counterattacks &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This book offers the basic philosophy and use of hand-to-hand training as it began, and the author meticulously describes the basis of each skill to help the reader and athlete understand it clearly. With more than 1,000 photos and 150 techniques, &lt;em&gt;Krav Maga: Use Your Body as a a Weapon &lt;/em&gt;belongs on the bookshelf of everyone interested in this technique. &lt;br /&gt;
+Skyhorse Publishing, as well as our Sports Publishing imprint, is proud to publish a broad range of books for readers interested in sports—books about baseball, pro football, college football, pro and college basketball, hockey, or soccer, we have a book about your sport or your team. &lt;br /&gt;
+In addition to books on popular team sports, we also publish books for a wide variety of athletes and sports enthusiasts, including books on running, cycling, horseback riding, swimming, tennis, martial arts, golf, camping, hiking, aviation, boating, and so much more. While not every title we publish becomes a &lt;em&gt;New York Times &lt;/em&gt;bestseller or a national bestseller, we are committed to publishing books on subjects that are sometimes overlooked by other publishers and to authors whose work might not otherwise find a home. &lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Boaz Aviram&lt;/strong&gt; is the third in a lineage of IDF Fighting Fitness Academy Krav Maga Chief Instructors and has taught sky marshals of the Israel Aviation Authority, as well as numerous US and European federal and local law enforcement agencies. He lives in New York, New York. &lt;/p&gt;</dc:description>
+        <dc:publisher>Skyhorse</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781628736120</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">E4CYngEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B00KV1MH7C</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Sports &amp; Recreation</dc:subject>
+        <dc:subject>Martial Arts &amp; Self-Defense</dc:subject>
+        <dc:subject>Boxing</dc:subject>
+        <dc:subject>Health &amp; Fitness</dc:subject>
+        <dc:subject>Exercise</dc:subject>
+        <dc:subject>Essays</dc:subject>
+        <dc:subject>Bodybuilding &amp; Weight Training</dc:subject>
+        <meta content="{&quot;Boaz Aviram&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2019-03-07T10:02:48.167544+00:00" name="calibre:timestamp"/>
+        <meta content="Krav Maga: Use Your Body as a Weapon" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Krav Maga_ Use Your Body as a Weapon - Boaz Aviram.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

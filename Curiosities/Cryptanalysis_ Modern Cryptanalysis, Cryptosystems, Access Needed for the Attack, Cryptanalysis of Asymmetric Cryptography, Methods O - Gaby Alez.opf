@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">164</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4cb16f6d-a332-490b-aca8-0bff8c68d46a</dc:identifier>
+        <dc:title>Cryptanalysis: Modern Cryptanalysis, Cryptosystems, Access Needed for the Attack, Cryptanalysis of Asymmetric Cryptography, Methods O</dc:title>
+        <dc:creator opf:file-as="Alez, Gaby" opf:role="aut">Gaby Alez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-28T10:10:23.853880+00:00</dc:date>
+        <dc:description>Please note that the content of this book primarily consists of articles available from Wikipedia or other free sources online. This book gives you a thorough look at cryptanalysis, which is the study of methods for obtaining the meaning of encrypted information, without access to the secret information that is normally required to do so. Chapters include the history, classical cryptanalysis, depth, usefulness of attack results, and quantum computing applications for cryptanalysis. Project Webster represents a new publishing paradigm, allowing disparate content sources to be curated into cohesive, relevant, and informative books. To date, this content has been curated from Wikipedia articles and images under Creative Commons licensing, although as Project Webster continues to increase in scope and dimension, more licensed and public domain content is being added. We believe books such as this represent a new and exciting lexicon in the sharing of human knowledge.</dc:description>
+        <dc:publisher>Webster's Digital Services</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781276191593</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">_eXUuQAACAAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Technology &amp; Engineering</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta content="{&quot;Gaby Alez&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-03-07T10:02:36.582917+00:00" name="calibre:timestamp"/>
+        <meta content="Cryptanalysis: Modern Cryptanalysis, Cryptosystems, Access Needed for the Attack, Cryptanalysis of Asymmetric Cryptography, Methods O" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Cryptanalysis_ Modern Cryptanalysis, Cryptosystems, Access Needed for the Attack, Cryptanalysis of Asymmetric Cryptography, Methods O - Gaby Alez.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

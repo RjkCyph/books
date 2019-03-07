@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">205</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">65a23902-6612-41cc-b3a1-bbd897a0466b</dc:identifier>
+        <dc:title>Financial Modelling in Python</dc:title>
+        <dc:creator opf:file-as="Fletcher, Shayne &amp; Gardner, Christopher" opf:role="aut">Shayne Fletcher</dc:creator>
+        <dc:creator opf:file-as="Fletcher, Shayne &amp; Gardner, Christopher" opf:role="aut">Christopher Gardner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-28T10:05:06.592270+00:00</dc:date>
+        <dc:description>"Fletcher and Gardner have created a comprehensive resource that will be of interest not only to those working in the field of finance, but also to those using numerical methods in other fields such as engineering, physics, and actuarial mathematics. By showing how to combine the high-level elegance, accessibility, and flexibility of Python, with the low-level computational efficiency of C++, in the context of interesting financial modeling problems, they have provided an implementation template which will be useful to others seeking to jointly optimize the use of computational and human resources. They document all the necessary technical details required in order to make external numerical libraries available from within Python, and they contribute a useful library of their own, which will significantly reduce the start-up costs involved in building financial models. This book is a must read for all those with a need to apply numerical methods in the valuation of financial claims." –David Louton, Professor of Finance, Bryant University This book is directed at both industry practitioners and students interested in designing a pricing and risk management framework for financial derivatives using the Python programming language. It is a practical book complete with working, tested code that guides the reader through the process of building a flexible, extensible pricing framework in Python. The pricing frameworks' loosely coupled fundamental components have been designed to facilitate the quick development of new models. Concrete applications to real-world pricing problems are also provided. Topics are introduced gradually, each building on the last. They include basic mathematical algorithms, common algorithms from numerical analysis, trade, market and event data model representations, lattice and simulation based pricing, and model development. The mathematics presented is kept simple and to the point. The book also provides a host of information on practical technical topics such as C++/Python hybrid development (embedding and extending) and techniques for integrating Python based programs with Microsoft Excel.</dc:description>
+        <dc:publisher>John Wiley &amp; Sons</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780470747896</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">2XQM7QiTqw4C</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Finance</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta content="{&quot;Shayne Fletcher&quot;: &quot;&quot;, &quot;Christopher Gardner&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-03-07T10:03:46.823907+00:00" name="calibre:timestamp"/>
+        <meta content="Financial Modelling in Python" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Financial Modelling in Python - Shayne Fletcher &amp; Christopher Gardner.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">185</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">efb0ee0f-d679-43d8-b74e-fc7bc354d3df</dc:identifier>
+        <dc:title>Quantum Physics Workbook for Dummies</dc:title>
+        <dc:creator opf:file-as="Holzner, Steven" opf:role="aut">Steven Holzner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-12-04T10:07:48.151318+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;strong&gt;Hands-on practice in solving quantum physics problems&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Quantum Physics is the study of the behavior of matter and energy at the molecular, atomic, nuclear, and even smaller microscopic levels. Like the other titles in our For Dummies Workbook series, &lt;em&gt;Quantum Physics Workbook For Dummies&lt;/em&gt; allows you to hone your skills at solving the difficult and often confusing equations you encounter in this subject.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Explains equations in easy-to-understand terms&lt;/li&gt;
+&lt;li&gt;Harmonic Oscillator Operations, Angular Momentum, Spin, Scattering Theory&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Using a proven practice-and-review approach, &lt;em&gt;Quantum Physics Workbook For Dummies&lt;/em&gt; is all you need to get up to speed in problem solving!&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;</dc:description>
+        <dc:publisher>For Dummies</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780470525890</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">bNY46f7-tCQC</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0470525894</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Physics</dc:subject>
+        <dc:subject>Quantum Theory</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta content="{&quot;Steven Holzner&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2019-03-07T10:03:12.053111+00:00" name="calibre:timestamp"/>
+        <meta content="Quantum Physics Workbook for Dummies" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Quantum Physics Workbook for Dummies - Steven Holzner.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

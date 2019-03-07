@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">169</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8560c699-03e6-4b84-9ae8-cf9dbb06fc9b</dc:identifier>
+        <dc:title>Learning Python</dc:title>
+        <dc:creator opf:file-as="Lutz, Mark" opf:role="aut">Mark Lutz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-12T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Google and YouTube use Python because it's highly adaptable, easy to maintain, and allows for rapid development. If you want to write high-quality, efficient code that's easily integrated with other languages and tools, this hands-on book will help you be productive with Python quickly -- whether you're new to programming or just new to Python. It's an easy-to-follow self-paced tutorial, based on author and Python expert Mark Lutz's popular training course. Each chapter contains a stand-alone lesson on a key component of the language, and includes a unique Test Your Knowledge section with practical exercises and quizzes, so you can practice new skills and test your understanding as you go. You'll find lots of annotated examples and illustrations to help you get started with Python 3.0.Learn about Python's major built-in object types, such as numbers, lists, and dictionaries Create and process objects using Python statements, and learn&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;</dc:description>
+        <dc:publisher>O'Reilly Media</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780596158064</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1449355730</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Mark Lutz&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2019-03-07T10:02:44.758196+00:00" name="calibre:timestamp"/>
+        <meta content="Learning Python" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Learning Python - Mark Lutz.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

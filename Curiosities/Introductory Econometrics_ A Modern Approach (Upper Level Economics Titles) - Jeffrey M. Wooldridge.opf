@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">151</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6268122f-3689-4c51-b0c5-bea0c710d13d</dc:identifier>
+        <dc:title>Introductory Econometrics: A Modern Approach (Upper Level Economics Titles)</dc:title>
+        <dc:creator opf:file-as="Wooldridge, Jeffrey M." opf:role="aut">Jeffrey M. Wooldridge</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-09-26T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Discover how empirical researchers today actually think about and apply econometric methods with the practical, professional approach in Wooldridge's INTRODUCTORY ECONOMETRICS: A MODERN APPROACH, 5E. Unlike traditional books on the subject, INTRODUCTORY ECONOMETRICS' unique presentation demonstrates how econometrics has moved beyond just a set of abstract tools to become a genuinely useful tool for answering questions in business, policy evaluation, and forecasting environments. Organized around the type of data being analyzed, the book uses a systematic approach that only introduces assumptions as they are needed, which makes the material easier to understand and ultimately leads to better econometric practices. Packed with timely, relevant applications, the text emphasizes incorporates close to 100 intriguing data sets in six formats and offers updates that reflect the latest emerging developments in the field.&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;</dc:description>
+        <dc:publisher>Cengage Learning</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781111531041</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1111531048</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Jeffrey M. Wooldridge&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2019-03-07T10:02:13.187568+00:00" name="calibre:timestamp"/>
+        <meta content="Introductory Econometrics: A Modern Approach (Upper Level Economics Titles)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Introductory Econometrics_ A Modern Approach (Upper Level Economics Titles) - Jeffrey M. Wooldridge.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
